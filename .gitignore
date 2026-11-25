@@ -36,3 +36,12 @@ Thumbs.db
 # Raw datasets (keep canonical and processed datasets)
 data/raw/*
 !data/raw/.gitkeep
+
+# Internal documentation and study reports
+COMPLETE_CONVERSATION_HISTORY.md
+COMPLETE_STUDY_GUIDE.md
+MASTER_PROJECT_DOCUMENTATION.md
+PROJECT_FLOW_GUIDE.md
+PROJECT_REPORT.html
+PROJECT_REPORT.md
+PROJECT_REPORT.pdf
