@@ -1,0 +1,692 @@
+skill,category,est_weeks_to_learn,resource_url,resource_title
+Python,Languages,4,https://docs.python.org/3/tutorial/,Official Python Tutorial
+Java,Languages,6,https://dev.java/learn/,Java Documentation & Tutorials
+C++,Languages,8,https://en.cppreference.com/w/,C++ Reference Guide
+C,Languages,6,https://en.cppreference.com/w/c,C Standard Library Reference
+C#,Languages,5,https://learn.microsoft.com/en-us/dotnet/csharp/,Microsoft C# Documentation
+JavaScript,Languages,4,https://developer.mozilla.org/en-US/docs/Web/JavaScript,MDN JavaScript Guide
+TypeScript,Languages,3,https://www.typescriptlang.org/docs/,TypeScript Official Handbook
+Go,Languages,4,https://go.dev/tour/,A Tour of Go
+Rust,Languages,8,https://doc.rust-lang.org/book/,The Rust Programming Language Book
+R,Languages,4,https://cran.r-project.org/manuals.html,CRAN R Language Manuals
+SQL,Languages,3,https://www.sqltutorial.org/,SQL Tutorial for Beginners
+HTML,Languages,1,https://developer.mozilla.org/en-US/docs/Web/HTML,MDN HTML Documentation
+CSS,Languages,2,https://developer.mozilla.org/en-US/docs/Web/CSS,MDN CSS Documentation
+Bash,Languages,2,https://www.gnu.org/software/bash/manual/,GNU Bash Reference Manual
+Shell Scripting,Languages,2,https://www.shellscript.sh/,Shell Scripting Tutorial
+Kotlin,Languages,4,https://kotlinlang.org/docs/home.html,Kotlin Official Documentation
+Swift,Languages,5,https://docs.swift.org/swift-book/,Swift Programming Language Guide
+Scala,Languages,6,https://docs.scala-lang.org/,Scala Documentation and Guides
+PHP,Languages,3,https://www.php.net/manual/en/,PHP Manual and Tutorials
+Ruby,Languages,3,https://www.ruby-lang.org/en/documentation/,Ruby Official Documentation
+MATLAB,Languages,4,https://www.mathworks.com/help/matlab/,MATLAB Documentation
+Dart,Languages,3,https://dart.dev/guides,Dart Language Documentation
+Solidity,Languages,5,https://docs.soliditylang.org/,Solidity Official Documentation
+Perl,Languages,4,https://perldoc.perl.org/,Perl Programming Documentation
+React,Frameworks,4,https://react.dev/learn,React Official Documentation
+Angular,Frameworks,5,https://angular.io/docs,Angular Developer Guides
+Vue.js,Frameworks,3,https://vuejs.org/guide/introduction.html,Vue.js Official Guide
+Node.js,Frameworks,3,https://nodejs.org/en/docs/,Node.js Official Documentation
+Express,Frameworks,2,https://expressjs.com/,Express.js Web Application Framework
+Next.js,Frameworks,3,https://nextjs.org/docs,Next.js App Router Documentation
+Django,Frameworks,4,https://docs.djangoproject.com/en/stable/,Django Official Documentation
+FastAPI,Frameworks,2,https://fastapi.tiangolo.com/,FastAPI Documentation & Tutorials
+Flask,Frameworks,2,https://flask.palletsprojects.com/,Flask Web Development Documentation
+Spring Boot,Frameworks,5,https://spring.io/projects/spring-boot,Spring Boot Reference Guide
+Spring Framework,Frameworks,6,https://docs.spring.io/spring-framework/reference/,Spring Framework Core Documentation
+ASP.NET Core,Frameworks,5,https://learn.microsoft.com/en-us/aspnet/core/,ASP.NET Core Documentation
+PyTorch,Frameworks,5,https://pytorch.org/tutorials/,PyTorch Deep Learning Tutorials
+TensorFlow,Frameworks,5,https://www.tensorflow.org/tutorials,TensorFlow Official Tutorials
+Keras,Frameworks,3,https://keras.io/guides/,Keras Deep Learning Guides
+Scikit-Learn,Frameworks,3,https://scikit-learn.org/stable/user_guide.html,Scikit-Learn Machine Learning Guide
+Pandas,Frameworks,2,https://pandas.pydata.org/docs/,Pandas Data Analysis Documentation
+NumPy,Frameworks,2,https://numpy.org/doc/stable/,NumPy Scientific Computing Guide
+OpenCV,Frameworks,4,https://docs.opencv.org/,OpenCV Computer Vision Library Docs
+Hugging Face,Frameworks,3,https://huggingface.co/docs,Hugging Face Transformers Guide
+NLTK,Frameworks,2,https://www.nltk.org/book/,Natural Language Processing with Python (NLTK)
+spaCy,Frameworks,2,https://spacy.io/usage,spaCy Industrial-Strength NLP Documentation
+Apache Spark,Frameworks,4,https://spark.apache.org/docs/latest/,Apache Spark Documentation
+Apache Kafka,Frameworks,4,https://kafka.apache.org/documentation/,Apache Kafka Event Streaming Docs
+Tailwind CSS,Frameworks,2,https://tailwindcss.com/docs,Tailwind CSS Documentation
+Bootstrap,Frameworks,1,https://getbootstrap.com/docs/,Bootstrap Responsive Framework Docs
+Redux,Frameworks,2,https://redux.js.org/introduction/getting-started,Redux State Management Guide
+GraphQL,Frameworks,3,https://graphql.org/learn/,GraphQL Query Language Guide
+REST APIs,Frameworks,2,https://restfulapi.net/,RESTful API Design Principles
+gRPC,Frameworks,3,https://grpc.io/docs/,gRPC Remote Procedure Call Documentation
+jQuery,Frameworks,1,https://api.jquery.com/,jQuery API Documentation
+Svelte,Frameworks,3,https://svelte.dev/docs,Svelte Interactive Tutorial & Docs
+Electron,Frameworks,4,https://www.electronjs.org/docs/latest/,Electron Cross-Platform Desktop Docs
+Flutter,Frameworks,4,https://docs.flutter.dev/,Flutter Multi-Platform UI Toolkit
+React Native,Frameworks,4,https://reactnative.dev/docs/getting-started,React Native Mobile Documentation
+PostgreSQL,Databases,3,https://www.postgresql.org/docs/,PostgreSQL Database Documentation
+MySQL,Databases,2,https://dev.mysql.com/doc/,MySQL Reference Manual
+MongoDB,Databases,3,https://www.mongodb.com/docs/,MongoDB NoSQL Documentation
+Redis,Databases,2,https://redis.io/docs/,Redis In-Memory Data Store Docs
+SQLite,Databases,1,https://www.sqlite.org/docs.html,SQLite Embedded Database Documentation
+Cassandra,Databases,4,https://cassandra.apache.org/doc/latest/,Apache Cassandra Distributed Database
+Elasticsearch,Databases,3,https://www.elastic.co/guide/en/elasticsearch/reference/current/,Elasticsearch Search & Analytics Engine
+Oracle DB,Databases,4,https://docs.oracle.com/en/database/,Oracle Database Documentation
+Microsoft SQL Server,Databases,3,https://learn.microsoft.com/en-us/sql/sql-server/,Microsoft SQL Server Technical Docs
+Neo4j,Databases,3,https://neo4j.com/docs/,Neo4j Graph Database Documentation
+DynamoDB,Databases,2,https://docs.aws.amazon.com/dynamodb/,Amazon DynamoDB Developer Guide
+Firebase,Databases,2,https://firebase.google.com/docs,Firebase Realtime Database & Auth
+Supabase,Databases,2,https://supabase.com/docs,Supabase Open Source Firebase Alternative
+Snowflake,Databases,3,https://docs.snowflake.com/,Snowflake Cloud Data Warehouse Docs
+BigQuery,Databases,2,https://cloud.google.com/bigquery/docs,Google Cloud BigQuery Documentation
+Amazon Redshift,Databases,3,https://docs.aws.amazon.com/redshift/,Amazon Redshift Data Warehouse Docs
+MariaDB,Databases,2,https://mariadb.org/documentation/,MariaDB Server Knowledge Base
+Couchbase,Databases,3,https://docs.couchbase.com/,Couchbase NoSQL Database Guides
+HBase,Databases,4,https://hbase.apache.org/book.html,Apache HBase Reference Guide
+Docker,Cloud/DevOps,2,https://docs.docker.com/get-started/,Docker Containerization Tutorial
+Kubernetes,Cloud/DevOps,5,https://kubernetes.io/docs/home/,Kubernetes Container Orchestration Docs
+AWS,Cloud/DevOps,4,https://aws.amazon.com/getting-started/,Amazon Web Services Getting Started
+Azure,Cloud/DevOps,4,https://learn.microsoft.com/en-us/azure/,Microsoft Azure Cloud Documentation
+GCP,Cloud/DevOps,4,https://cloud.google.com/docs,Google Cloud Platform Fundamentals
+Terraform,Cloud/DevOps,3,https://developer.hashicorp.com/terraform/docs,Terraform Infrastructure as Code
+Ansible,Cloud/DevOps,3,https://docs.ansible.com/,Ansible Automation Platform Docs
+CI/CD,Cloud/DevOps,2,https://www.atlassian.com/continuous-delivery/principles,Continuous Integration and Delivery Guide
+GitHub Actions,Cloud/DevOps,2,https://docs.github.com/en/actions,GitHub Actions Workflow Automation
+Jenkins,Cloud/DevOps,3,https://www.jenkins.io/doc/,Jenkins Automation Server User Handbook
+Linux,Cloud/DevOps,3,https://linuxjourney.com/,Linux Journey Free Learning Guide
+Nginx,Cloud/DevOps,2,https://nginx.org/en/docs/,Nginx Web Server Documentation
+Apache HTTP Server,Cloud/DevOps,2,https://httpd.apache.org/docs/,Apache HTTP Server Documentation
+Prometheus,Cloud/DevOps,2,https://prometheus.io/docs/introduction/overview/,Prometheus Monitoring System
+Grafana,Cloud/DevOps,2,https://grafana.com/docs/,Grafana Observability & Dashboards
+Helm,Cloud/DevOps,2,https://helm.sh/docs/,Helm Package Manager for Kubernetes
+ArgoCD,Cloud/DevOps,2,https://argo-cd.readthedocs.io/,Argo CD GitOps Documentation
+OpenStack,Cloud/DevOps,5,https://docs.openstack.org/,OpenStack Cloud Infrastructure Docs
+Vagrant,Cloud/DevOps,1,https://developer.hashicorp.com/vagrant/docs,Vagrant Virtualized Environments
+CloudFormation,Cloud/DevOps,3,https://docs.aws.amazon.com/cloudformation/,AWS CloudFormation Templates Guide
+Serverless,Cloud/DevOps,2,https://www.serverless.com/framework/docs,Serverless Framework Documentation
+Datadog,Cloud/DevOps,2,https://docs.datadoghq.com/,Datadog Cloud Monitoring Docs
+Splunk,Cloud/DevOps,3,https://docs.splunk.com/,Splunk Enterprise Administration Docs
+Git,Tools,1,https://git-scm.com/doc,Git Version Control System Reference
+GitHub,Tools,1,https://docs.github.com/,GitHub Collaboration Documentation
+GitLab,Tools,1,https://docs.gitlab.com/,GitLab DevOps Lifecycle Platform Docs
+Bitbucket,Tools,1,https://support.atlassian.com/bitbucket-cloud/,Bitbucket Cloud Documentation
+Jira,Tools,1,https://support.atlassian.com/jira-software-cloud/,Atlassian Jira Agile Management
+Confluence,Tools,1,https://support.atlassian.com/confluence-cloud/,Confluence Team Workspace Docs
+Postman,Tools,1,https://learning.postman.com/docs/getting-started/overview/,Postman API Testing Platform
+VS Code,Tools,1,https://code.visualstudio.com/docs,Visual Studio Code Documentation
+Vim,Tools,2,https://www.vim.org/docs.php,Vim Editor Official Documentation
+Tableau,Tools,3,https://help.tableau.com/current/pro/desktop/en-us/default.htm,Tableau Business Intelligence Guide
+Power BI,Tools,3,https://learn.microsoft.com/en-us/power-bi/,Microsoft Power BI Data Analytics
+Excel,Tools,2,https://support.microsoft.com/en-us/excel,Microsoft Excel Formulas & Modeling
+Figma,Tools,2,https://help.figma.com/hc/en-us,Figma UI/UX Collaborative Design
+Apache Airflow,Tools,3,https://airflow.apache.org/docs/,Apache Airflow Workflow Orchestration
+Apache Hadoop,Tools,4,https://hadoop.apache.org/docs/current/,Apache Hadoop Big Data Platform
+dbt,Tools,2,https://docs.getdbt.com/,dbt Data Build Tool Documentation
+Weights & Biases,Tools,2,https://docs.wandb.ai/,Weights & Biases MLOps Platform
+MLflow,Tools,2,https://mlflow.org/docs/latest/index.html,MLflow Machine Learning Lifecycle
+Wireshark,Tools,3,https://www.wireshark.org/docs/,Wireshark Network Protocol Analyzer
+Selenium,Tools,2,https://www.selenium.dev/documentation/,Selenium Browser Automation
+Cypress,Tools,2,https://docs.cypress.io/,Cypress Frontend Web Testing
+Jest,Tools,1,https://jestjs.io/docs/getting-started,Jest JavaScript Testing Framework
+PyTest,Tools,1,https://docs.pytest.org/,PyTest Testing Framework Documentation
+Maven,Tools,2,https://maven.apache.org/guides/,Apache Maven Project Management
+Gradle,Tools,2,https://docs.gradle.org/current/userguide/userguide.html,Gradle Build Tool Documentation
+Webpack,Tools,2,https://webpack.js.org/concepts/,Webpack Module Bundler
+Vite,Tools,1,https://vitejs.dev/guide/,Vite Next Generation Frontend Tooling
+Communication,Soft Skills,2,https://www.coursera.org/learn/wharton-communication-skills,Effective Communication Skills
+Teamwork,Soft Skills,2,https://hbr.org/topic/subject/teams,Harvard Business Review: Team Dynamics
+Problem Solving,Soft Skills,2,https://www.mindtools.com/pages/article/newTMC_00.htm,Problem Solving Strategies
+Agile,Soft Skills,1,https://www.agilealliance.org/agile101/,Agile Alliance Guide
+Scrum,Soft Skills,1,https://scrumguides.org/,The Official Scrum Guide
+Leadership,Soft Skills,3,https://hbr.org/topic/subject/leadership,Leadership Principles & Management
+Critical Thinking,Soft Skills,2,https://plato.stanford.edu/entries/critical-thinking/,Stanford Encyclopedia: Critical Thinking
+Time Management,Soft Skills,1,https://asana.com/resources/time-management-strategies,Productive Time Management Strategies
+Code Review,Soft Skills,1,https://google.github.io/eng-practices/review/,Google Engineering Practices: Code Review
+Emotional Intelligence,Soft Skills,2,https://hbr.org/2015/04/how-emotional-intelligence-became-a-key-leadership-skill,Emotional Intelligence in Engineering
+Presentation Skills,Soft Skills,2,https://www.toastmasters.org/resources/public-speaking-tips,Toastmasters Public Speaking Tips
+Negotiation,Soft Skills,2,https://online.hbs.edu/blog/post/negotiation-skills,Harvard Business School: Negotiation Skills
+Mentorship,Soft Skills,2,https://www.cio.com/article/230873/how-to-be-a-great-mentor.html,Engineering Mentorship Practices
+Adaptability,Soft Skills,1,https://www.forbes.com/sites/forbescoachescouncil/2020/03/06/the-importance-of-adaptability-in-the-workplace/,Workplace Adaptability Principles
+Conflict Resolution,Soft Skills,2,https://hbr.org/2022/02/how-to-navigate-conflict-with-a-coworker,Conflict Resolution in Teams
+Data Analysis,Frameworks,3,https://online.stat.psu.edu/stat500/,Penn State Applied Statistics & Data Analysis
+Deep Learning,Frameworks,6,https://www.deeplearningbook.org/,MIT Deep Learning Textbook by Goodfellow et al.
+Machine Learning,Frameworks,5,https://developers.google.com/machine-learning/crash-course,Google Machine Learning Crash Course
+Computer Vision,Frameworks,5,https://cs231n.github.io/,Stanford CS231n Computer Vision Notes
+Natural Language Processing,Frameworks,5,https://web.stanford.edu/class/cs224n/,Stanford CS224n Natural Language Processing
+MLOps,Cloud/DevOps,4,https://ml-ops.org/,MLOps Continuous Delivery for Machine Learning
+Microservices,Frameworks,3,https://microservices.io/,Microservice Architecture Patterns
+System Design,Frameworks,4,https://github.com/donnemartin/system-design-primer,System Design Primer
+Distributed Systems,Frameworks,5,https://pdos.csail.mit.edu/6.824/,MIT 6.824 Distributed Systems
+Object-Oriented Programming,Languages,3,https://en.wikipedia.org/wiki/Object-oriented_programming,Object-Oriented Programming Principles
+Data Structures,Languages,4,https://runestone.academy/ns/books/published/pythonds3/index.html,Problem Solving with Algorithms and Data Structures
+Algorithms,Languages,5,https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/,Introduction to Algorithms (CLRS)
+Unit Testing,Tools,1,https://martinfowler.com/bliki/UnitTest.html,Martin Fowler Unit Testing Guide
+Cybersecurity,Cloud/DevOps,4,https://www.cisa.gov/cybersecurity,CISA Cybersecurity Best Practices
+Cryptography,Languages,4,https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/,Stanford Online Cryptography
+Data Modeling,Databases,3,https://www.ibm.com/topics/data-modeling,IBM Data Modeling Architecture
+ETL,Tools,3,https://aws.amazon.com/what-is/etl/,AWS ETL Pipelines and Data Processing
+GraphQL API,Frameworks,2,https://graphql.org/learn/,GraphQL API Fundamentals
+WebSockets,Frameworks,2,https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API,MDN WebSockets Documentation
+Linux Shell,Languages,2,https://linuxcommand.org/,The Linux Command Line Guide
+OAuth,Frameworks,2,https://oauth.net/2/,OAuth 2.0 Authorization Framework
+JWT,Frameworks,1,https://jwt.io/introduction,JSON Web Tokens Guide
+Cloud Security,Cloud/DevOps,3,https://cloudsecurityalliance.org/research/guidance/,Cloud Security Alliance Guidelines
+Data Warehousing,Databases,3,https://cloud.google.com/learn/what-is-a-data-warehouse,Data Warehousing Architecture Concepts
+Statistical Analysis,Frameworks,3,https://openstax.org/details/books/introductory-statistics,OpenStax Introductory Statistics
+Data Visualization,Tools,2,https://datavizproject.com/,Data Visualization Guide
+Feature Engineering,Frameworks,3,https://bookdown.org/max/FES/,Feature Engineering and Selection
+A/B Testing,Frameworks,2,https://hbr.org/2017/06/a-refresher-on-ab-testing,Harvard Business Review: A/B Testing Guide
+Model Evaluation,Frameworks,2,https://scikit-learn.org/stable/modules/model_evaluation.html,Scikit-Learn Model Evaluation Metrics
+Reinforcement Learning,Frameworks,6,https://spinningup.openai.com/,OpenAI Spinning Up in Deep RL
+Time Series Analysis,Frameworks,4,https://otexts.com/fpp3/,Forecasting: Principles and Practice
+Web Scraping,Tools,2,https://beautiful-soup-4.readthedocs.io/,Beautiful Soup Web Scraping Docs
+API Development,Frameworks,2,https://swagger.io/resources/articles/best-practices-in-api-design/,Swagger API Design Best Practices
+Event-Driven Architecture,Frameworks,3,https://aws.amazon.com/event-driven-architecture/,AWS Event-Driven Architecture
+Database Indexing,Databases,2,https://use-the-index-luke.com/,Use The Index Luke: SQL Indexing
+Database Normalization,Databases,2,https://www.geeksforgeeks.org/database-normalization-introduction/,Database Normalization Forms
+Network Protocols,Tools,3,https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/,Cloudflare Network Layer & Protocols
+Concurrency,Languages,4,https://en.wikipedia.org/wiki/Concurrency_(computer_science),Concurrency Concepts and Threads
+Asynchronous Programming,Languages,3,https://realpython.com/async-io-python/,Async IO in Python: A Complete Walkthrough
+Code Optimization,Tools,3,https://en.wikipedia.org/wiki/Program_optimization,Software Program Optimization
+Test-Driven Development,Tools,2,https://martinfowler.com/bliki/TestDrivenDevelopment.html,Test-Driven Development by Martin Fowler
+Debugging,Tools,2,https://en.wikipedia.org/wiki/Debugging,Software Debugging Principles
+Version Control,Tools,1,https://git-scm.com/book/en/v2,Pro Git Official Book
+Infrastructure as Code,Cloud/DevOps,3,https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code,Infrastructure as Code Concepts
+Continuous Deployment,Cloud/DevOps,2,https://www.atlassian.com/continuous-delivery/continuous-deployment,Continuous Deployment Workflow
+Site Reliability Engineering,Cloud/DevOps,4,https://sre.google/sre-book/table-of-contents/,Google Site Reliability Engineering Book
+Prompt Engineering,Frameworks,2,https://learnprompting.org/,Learn Prompting Open Source Guide
+Vector Databases,Databases,3,https://www.pinecone.io/learn/vector-database/,Vector Database Architecture Guide
+LLM Integration,Frameworks,3,https://python.langchain.com/docs/get_started/introduction,LangChain LLM Framework Docs
+Semantic Search,Frameworks,3,https://www.sbert.net/,Sentence-BERT Semantic Search Guide
+Information Retrieval,Frameworks,4,https://nlp.stanford.edu/IR-book/,Introduction to Information Retrieval (Stanford)
+Cloud Monitoring,Cloud/DevOps,2,https://cloud.google.com/monitoring/docs,Cloud Monitoring Guide
+Log Management,Cloud/DevOps,2,https://www.loggly.com/ultimate-guide/logging/,Ultimate Guide to Logging
+User Experience Design,Tools,2,https://www.nngroup.com/articles/definition-user-experience/,Nielsen Norman Group UX Basics
+State Management,Frameworks,2,https://kentcdodds.com/blog/application-state-management-with-react,Modern Application State Management
+Responsive Design,Languages,2,https://web.dev/learn/design/,Google web.dev Responsive Design Course
+Cross-Browser Compatibility,Tools,1,https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing,MDN Cross Browser Testing
+Authentication & Authorization,Frameworks,2,https://auth0.com/intro-to-iam/what-is-authentication-vs-authorization,Authentication vs Authorization Fundamentals
+Role-Based Access Control,Cloud/DevOps,2,https://csrc.nist.gov/projects/role-based-access-control,NIST Role-Based Access Control
+Data Governance,Tools,3,https://www.ibm.com/topics/data-governance,IBM Data Governance Fundamentals
+Data Quality,Tools,2,https://towardsdatascience.com/data-quality-in-machine-learning-6086f6d0fba5,Data Quality Frameworks
+Model Monitoring,Cloud/DevOps,3,https://evidentlyai.com/blog/machine-learning-monitoring,Evidently AI: ML Monitoring Guide
+Data Pipeline Architecture,Tools,3,https://www.oreilly.com/library/view/data-pipelines-pocket/9781492087823/,Data Pipelines Architecture Guide
+Query Optimization,Databases,3,https://use-the-index-luke.com/,SQL Query Execution & Optimization
+Schema Design,Databases,2,https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/,Database Schema Design Best Practices
+Load Balancing,Cloud/DevOps,2,https://www.nginx.com/resources/glossary/load-balancing/,Nginx Load Balancing Concepts
+Content Delivery Networks,Cloud/DevOps,2,https://www.cloudflare.com/learning/cdn/what-is-a-cdn/,Cloudflare CDN Learning Guide
+Data Privacy,Tools,2,https://gdpr.eu/,GDPR Information & Compliance Guide
+Bias in AI,Frameworks,2,https://pair.withgoogle.com/,Google People + AI Research (PAIR)
+Technical Writing,Soft Skills,2,https://developers.google.com/tech-writing,Google Technical Writing Courses
+Peer Review,Soft Skills,1,https://github.com/resources/articles/software-development/how-to-write-a-pull-request,How to Write and Review Pull Requests
+Requirement Gathering,Soft Skills,2,https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/1427/Requirements-Gathering-101.aspx,Requirements Gathering Techniques
+Stakeholder Management,Soft Skills,2,https://www.pmi.org/learning/library/stakeholder-management-task-relationship-6091,PMI Stakeholder Management Strategies
+Cross-Functional Collaboration,Soft Skills,2,https://hbr.org/2015/06/cross-silo-leadership,Collaborating Across Functional Silos
+Sprint Planning,Soft Skills,1,https://www.atlassian.com/agile/scrum/sprint-planning,Atlassian Sprint Planning Guide
+Retrospectives,Soft Skills,1,https://www.atlassian.com/agile/scrum/retrospectives,Agile Sprint Retrospectives
+Documentation,Soft Skills,1,https://www.writethedocs.org/guide/,Write the Docs Software Documentation Guide
+Risk Management,Soft Skills,2,https://www.pmi.org/learning/library/risk-management-project-success-7341,Engineering Project Risk Management
+System Troubleshooting,Tools,2,https://landing.google.com/sre/sre-book/chapters/effective-troubleshooting/,Google SRE Effective Troubleshooting
+Performance Profiling,Tools,2,https://docs.python.org/3/library/profile.html,Python Profilers Documentation
+Cloud Cost Optimization,Cloud/DevOps,2,https://aws.amazon.com/aws-cost-management/,AWS Cost Optimization Architecture
+Disaster Recovery,Cloud/DevOps,3,https://aws.amazon.com/disaster-recovery/,Disaster Recovery Architecture Best Practices
+Security Auditing,Cloud/DevOps,3,https://owasp.org/www-project-top-ten/,OWASP Top Ten Security Vulnerabilities
+Penetration Testing,Tools,4,https://www.offensive-security.com/metasploit-unleashed/,Metasploit Unleashed Security Course
+Network Security,Cloud/DevOps,3,https://www.cisco.com/c/en/us/products/security/what-is-network-security.html,Cisco Network Security Fundamentals
+Container Security,Cloud/DevOps,3,https://kubernetes.io/docs/concepts/security/overview/,Kubernetes Security Concepts
+Message Queuing,Frameworks,2,https://aws.amazon.com/message-queue/,AWS Message Queuing Fundamentals
+Caching Strategies,Frameworks,2,https://aws.amazon.com/caching/best-practices/,Caching Architecture and Strategies
+Scalability,Frameworks,3,https://en.wikipedia.org/wiki/Scalability,Software System Scalability Design
+High Availability,Cloud/DevOps,3,https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/overview,High Availability Architecture in Azure
+Reliability Engineering,Cloud/DevOps,3,https://sre.google/,Google Site Reliability Engineering Hub
+Code Refactoring,Tools,2,https://refactoring.guru/,Refactoring Guru Design Patterns & Refactoring
+Design Patterns,Frameworks,3,https://refactoring.guru/design-patterns,Design Patterns Architecture Guide
+Clean Architecture,Frameworks,3,https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html,Uncle Bob: The Clean Architecture
+Micro-frontends,Frameworks,3,https://martinfowler.com/articles/micro-frontends.html,Martin Fowler Micro-frontends Architecture
+Server-Side Rendering,Frameworks,2,https://web.dev/rendering-on-the-web/,Google web.dev Rendering on the Web
+Static Site Generation,Frameworks,2,https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation,Static Site Generation Concepts
+SEO Optimization,Tools,2,https://developers.google.com/search/docs/fundamentals/seo-starter-guide,Google SEO Starter Guide
+Progressive Web Apps,Frameworks,3,https://web.dev/progressive-web-apps/,Google PWA Developer Guide
+Data Streaming,Frameworks,3,https://kafka.apache.org/intro,Real-time Data Streaming Concepts
+Batch Processing,Frameworks,3,https://cloud.google.com/learn/what-is-batch-processing,Google Cloud Batch Processing Concepts
+Search Engines,Databases,3,https://www.elastic.co/what-is/elasticsearch,Elasticsearch Information Retrieval Concepts
+Graph Algorithms,Languages,4,https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/,Graph Data Structures & Algorithms
+Dynamic Programming,Languages,4,https://www.geeksforgeeks.org/dynamic-programming/,Dynamic Programming Patterns & Solutions
+Tree Traversal,Languages,3,https://en.wikipedia.org/wiki/Tree_traversal,Tree Traversal Algorithms Guide
+Sorting Algorithms,Languages,2,https://en.wikipedia.org/wiki/Sorting_algorithm,Sorting Algorithms Analysis
+Greedy Algorithms,Languages,3,https://www.geeksforgeeks.org/greedy-algorithms/,Greedy Algorithms Design Guide
+Complexity Analysis,Languages,2,https://en.wikipedia.org/wiki/Time_complexity,Time & Space Complexity Big-O Analysis
+Bit Manipulation,Languages,2,https://graphics.stanford.edu/~seander/bithacks.html,Stanford Bit Twiddling Hacks
+Database Transactions,Databases,2,https://en.wikipedia.org/wiki/Database_transaction,Database ACID Transactions Guide
+ACID Properties,Databases,2,https://www.databricks.com/glossary/acid-transactions,ACID Properties in Relational and Lakehouse Databases
+CAP Theorem,Databases,2,https://en.wikipedia.org/wiki/CAP_theorem,CAP Theorem in Distributed Systems
+Sharding,Databases,3,https://aws.amazon.com/what-is/database-sharding/,Database Sharding Concepts
+Replication,Databases,3,https://en.wikipedia.org/wiki/Replication_(computing),Database Replication Strategies
+Consensus Algorithms,Languages,4,https://raft.github.io/,Raft Consensus Algorithm Visualization
+Deadlock Handling,Languages,2,https://en.wikipedia.org/wiki/Deadlock,Operating Systems Deadlock Handling
+Memory Management,Languages,3,https://en.wikipedia.org/wiki/Memory_management,Memory Allocation & Garbage Collection
+Virtualization,Cloud/DevOps,2,https://www.redhat.com/en/topics/virtualization/what-is-virtualization,Red Hat Virtualization Overview
+Containerization,Cloud/DevOps,2,https://www.docker.com/resources/what-container/,Docker Containerization Concepts
+Edge Computing,Cloud/DevOps,3,https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/,Cloudflare Edge Computing Architecture
+Serverless Functions,Cloud/DevOps,2,https://aws.amazon.com/lambda/,AWS Lambda Serverless Computing
+Continuous Monitoring,Cloud/DevOps,2,https://www.atlassian.com/devops/devops-tools/devops-monitoring,Continuous Monitoring Strategies
+Threat Modeling,Tools,3,https://owasp.org/www-community/Threat_Modeling,OWASP Threat Modeling
+Vulnerability Scanning,Tools,2,https://www.cisa.gov/cyber-resource-hub,CISA Vulnerability Scanning Tools
+Secret Management,Cloud/DevOps,2,https://developer.hashicorp.com/vault/docs,HashiCorp Vault Secret Management
+API Gateway,Frameworks,2,https://aws.amazon.com/api-gateway/,AWS API Gateway Concepts
+Reverse Proxy,Cloud/DevOps,2,https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/,Cloudflare Reverse Proxy Explained
+DNS Management,Cloud/DevOps,2,https://www.cloudflare.com/learning/dns/what-is-dns/,Cloudflare DNS Concepts
+SSL/TLS,Cloud/DevOps,2,https://www.cloudflare.com/learning/ssl/what-is-ssl/,SSL/TLS Encryption Protocol Guide
+SSH,Tools,1,https://www.ssh.com/academy/ssh,SSH Protocol & Public Key Authentication
+HTTP/HTTPS,Tools,1,https://developer.mozilla.org/en-US/docs/Web/HTTP,MDN HTTP Networking Protocol
+WebSocket Protocol,Tools,2,https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API,MDN WebSockets Protocol
+IP Networking,Tools,2,https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html,IP Addressing and Subnetting
+Subnetting,Tools,2,https://en.wikipedia.org/wiki/Subnetwork,IP Subnetwork Calculations
+Firewalls,Cloud/DevOps,2,https://www.cisco.com/c/en/us/products/security/firewalls/what-is-a-firewall.html,Cisco Next Generation Firewalls
+VPN,Cloud/DevOps,1,https://www.cloudflare.com/learning/access-management/what-is-a-vpn/,Cloudflare VPN Architecture
+Database Migration,Databases,2,https://flywaydb.org/documentation/,Flyway Database Migrations
+Object-Relational Mapping,Frameworks,2,https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping,ORM Concepts and Patterns
+Data Serialization,Tools,1,https://en.wikipedia.org/wiki/Serialization,JSON and Protocol Buffers Serialization
+JSON,Tools,1,https://www.json.org/json-en.html,JSON Data Interchange Syntax
+YAML,Tools,1,https://yaml.org/spec/,YAML Specification and Syntax
+XML,Tools,1,https://www.w3.org/XML/,W3C XML Standard
+Markdown,Tools,1,https://www.markdownguide.org/,Markdown Syntax Guide
+Regular Expressions,Tools,1,https://www.regular-expressions.info/,Regular Expressions Tutorial
+Command Line Interface,Tools,1,https://ubuntu.com/tutorials/command-line-for-beginners,Ubuntu Command Line for Beginners
+Package Management,Tools,1,https://packaging.python.org/en/latest/,Python Packaging User Guide
+Semantic Versioning,Tools,1,https://semver.org/,Semantic Versioning Specification
+Continuous Learning,Soft Skills,1,https://hbr.org/2016/01/how-to-become-a-lifelong-learner,HBR Lifelong Learning in Tech
+Self-Direction,Soft Skills,1,https://www.mindtools.com/pages/article/self-management.htm,Self-Management and Autonomy
+Ethical AI,Frameworks,2,https://www.unesco.org/en/artificial-intelligence/recommendation-ethics,UNESCO Recommendation on the Ethics of AI
+Open Source Contribution,Tools,2,https://opensource.guide/how-to-contribute/,GitHub Guide to Open Source Contributions
+Sprint Retrospective,Soft Skills,1,https://www.scrum.org/resources/what-is-a-sprint-retrospective,Scrum.org Sprint Retrospective
+User Story Mapping,Soft Skills,2,https://www.jpattonassociates.com/user-story-mapping/,Jeff Patton User Story Mapping
+Root Cause Analysis,Soft Skills,2,https://en.wikipedia.org/wiki/Root_cause_analysis,5 Whys and Root Cause Analysis
+Incident Response,Cloud/DevOps,3,https://sre.google/sre-book/incident-response/,Google SRE Incident Response
+Service Level Agreements,Cloud/DevOps,2,https://sre.google/sre-book/service-level-objectives/,SLIs SLOs and SLAs Explained
+Chaos Engineering,Cloud/DevOps,3,https://principlesofchaos.org/,Principles of Chaos Engineering
+Observability,Cloud/DevOps,3,https://opentelemetry.io/docs/concepts/what-is-opentelemetry/,OpenTelemetry Observability Framework
+Telemetry,Cloud/DevOps,2,https://en.wikipedia.org/wiki/Telemetry,Software System Telemetry
+Tracing,Cloud/DevOps,2,https://www.jaegertracing.io/docs/,Jaeger Distributed Tracing Documentation
+Metrics Collection,Cloud/DevOps,2,https://prometheus.io/docs/concepts/metric_types/,Prometheus Metric Types
+Data Warehouses,Databases,3,https://aws.amazon.com/data-warehouse/,Amazon Data Warehousing Concepts
+Data Lakes,Databases,3,https://aws.amazon.com/big-data/datalakes-and-analytics/what-is-a-data-lake/,AWS Data Lake Architecture
+Data Mesh,Databases,4,https://martinfowler.com/articles/data-mesh-principles.html,Martin Fowler Data Mesh Architecture
+Feature Store,Frameworks,3,https://feast.dev/,Feast Open Source Feature Store
+Model Registry,Cloud/DevOps,2,https://mlflow.org/docs/latest/model-registry.html,MLflow Model Registry Guide
+Model Deployment,Cloud/DevOps,3,https://fastapi.tiangolo.com/deployment/,Deploying Machine Learning APIs
+Model Serving,Cloud/DevOps,3,https://www.tritoninferenceserver.com/,NVIDIA Triton Inference Server
+Data Validation,Tools,2,https://greatexpectations.io/,Great Expectations Data Validation
+Schema Validation,Tools,1,https://pydantic-docs.helpmanual.io/,Pydantic Data Validation Guide
+Automated Testing,Tools,2,https://martinfowler.com/testing/,Martin Fowler Practical Test Pyramid
+End-to-End Testing,Tools,2,https://playwright.dev/docs/intro,Playwright End-to-End Testing Docs
+Mocking & Stubbing,Tools,1,https://docs.python.org/3/library/unittest.mock.html,Python unittest.mock Library Guide
+Linting,Tools,1,https://flake8.pycqa.org/en/latest/,Flake8 Python Linting Tool
+Code Formatting,Tools,1,https://black.readthedocs.io/en/stable/,Black Python Code Formatter
+Type Checking,Tools,1,https://mypy.readthedocs.io/en/stable/,Mypy Static Type Checker
+Dependency Injection,Frameworks,2,https://en.wikipedia.org/wiki/Dependency_injection,Dependency Injection Software Design Pattern
+Design Thinking,Soft Skills,2,https://www.ideou.com/blogs/inspiration/what-is-design-thinking,IDEO Design Thinking Methodology
+Product Management,Soft Skills,2,https://www.atlassian.com/agile/product-management,Atlassian Product Management Fundamentals
+Cross-Platform Development,Frameworks,3,https://reactnative.dev/,React Native Cross-Platform Development
+Web Accessibility,Languages,2,https://www.w3.org/WAI/fundamentals/accessibility-intro/,W3C Web Accessibility Initiative (a11y)
+Internationalization,Tools,2,https://en.wikipedia.org/wiki/Internationalization_and_localization,Software Internationalization (i18n)
+Design Systems,Tools,2,https://www.designsystems.com/,Design Systems Handbook & Guide
+Performance Tuning,Tools,3,https://web.dev/fast/,Google web.dev Fast Web Performance Guide
+Asset Optimization,Tools,1,https://web.dev/optimize-lcp/,Optimizing Largest Contentful Paint (LCP)
+Database Partitioning,Databases,3,https://www.postgresql.org/docs/current/ddl-partitioning.html,PostgreSQL Table Partitioning Guide
+Connection Pooling,Databases,2,https://en.wikipedia.org/wiki/Connection_pool,Database Connection Pooling Architecture
+Distributed Caching,Databases,3,https://redis.io/solutions/caching/,Redis Distributed Caching Architecture
+Pub/Sub Messaging,Frameworks,2,https://cloud.google.com/pubsub/docs/overview,Google Cloud Pub/Sub Overview
+Message Brokers,Frameworks,2,https://www.rabbitmq.com/tutorials,RabbitMQ Message Broker Tutorials
+Data Pipeline Monitoring,Cloud/DevOps,2,https://airflow.apache.org/docs/apache-airflow/stable/logging-monitoring/index.html,Airflow Monitoring & Alerting
+Batch ETL,Tools,3,https://spark.apache.org/docs/latest/sql-programming-guide.html,Apache Spark Structured Streaming and Batch ETL
+Stream Processing,Frameworks,4,https://flink.apache.org/,Apache Flink Stateful Stream Processing
+Data Lakehouses,Databases,3,https://www.databricks.com/glossary/data-lakehouse,Databricks Lakehouse Architecture
+Statistical Modeling,Frameworks,3,https://www.statsmodels.org/stable/index.html,Statsmodels Statistical Models in Python
+Experiment Tracking,Tools,2,https://neptune.ai/blog/experiment-tracking-guide,Neptune.ai ML Experiment Tracking Guide
+Hyperparameter Tuning,Frameworks,2,https://optuna.org/,Optuna Hyperparameter Optimization Framework
+Transfer Learning,Frameworks,3,https://www.tensorflow.org/tutorials/images/transfer_learning,TensorFlow Transfer Learning Tutorial
+Model Quantization,Frameworks,3,https://pytorch.org/docs/stable/quantization.html,PyTorch Model Quantization Guide
+ONNX Runtime,Frameworks,2,https://onnxruntime.ai/docs/,ONNX Runtime High Performance Scoring
+Cross-Validation,Frameworks,2,https://scikit-learn.org/stable/modules/cross_validation.html,Scikit-Learn Cross-Validation Techniques
+Data Preprocessing,Frameworks,2,https://scikit-learn.org/stable/modules/preprocessing.html,Scikit-Learn Data Preprocessing
+Pipelines in Scikit-Learn,Frameworks,2,https://scikit-learn.org/stable/modules/compose.html,Scikit-Learn Composite Estimators & Pipelines
+Regularization,Frameworks,2,https://en.wikipedia.org/wiki/Regularization_(mathematics),L1 and L2 Regularization Concepts
+Gradient Descent,Frameworks,2,https://en.wikipedia.org/wiki/Gradient_descent,Gradient Descent Optimization Algorithms
+Loss Functions,Frameworks,2,https://en.wikipedia.org/wiki/Loss_function,Loss Functions in Machine Learning
+Neural Networks,Frameworks,4,https://www.3blue1brown.com/topics/neural-networks,3Blue1Brown Neural Networks Series
+Convolutional Neural Networks,Frameworks,4,https://cs231n.github.io/convolutional-networks/,CNN Architecture Guide (Stanford CS231n)
+Recurrent Neural Networks,Frameworks,4,https://colah.github.io/posts/2015-08-Understanding-LSTMs/,Understanding LSTMs by Chris Olah
+Transformer Architecture,Frameworks,4,https://jalammar.github.io/illustrated-transformer/,The Illustrated Transformer by Jay Alammar
+Attention Mechanisms,Frameworks,3,https://lilianweng.github.io/posts/2018-06-24-attention/,Attention? Attention! by Lilian Weng
+BERT,Frameworks,3,https://jalammar.github.io/illustrated-bert/,The Illustrated BERT by Jay Alammar
+Word Embeddings,Frameworks,3,https://nlp.stanford.edu/projects/glove/,GloVe: Global Vectors for Word Representation
+Tokenization,Frameworks,2,https://huggingface.co/docs/transformers/tokenizer_summary,Hugging Face Tokenizer Summary
+TF-IDF,Frameworks,2,https://scikit-learn.org/stable/modules/feature_extraction.html#tfidf-term-weighting,Scikit-Learn TF-IDF Feature Extraction
+Bag of Words,Frameworks,1,https://en.wikipedia.org/wiki/Bag-of-words_model,Bag-of-Words Model Overview
+Cosine Similarity,Frameworks,1,https://en.wikipedia.org/wiki/Cosine_similarity,Cosine Similarity Metric in Vector Space
+Euclidean Distance,Frameworks,1,https://en.wikipedia.org/wiki/Euclidean_distance,Euclidean Distance Formulation
+Jaccard Similarity,Frameworks,1,https://en.wikipedia.org/wiki/Jaccard_index,Jaccard Index Similarity Metric
+Graph Centrality,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/centrality.html,NetworkX Graph Centrality Algorithms
+Shortest Path Algorithms,Languages,2,https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm,Dijkstra Shortest Path Algorithm
+Breadth-First Search,Languages,2,https://en.wikipedia.org/wiki/Breadth-first_search,Breadth-First Search (BFS)
+Depth-First Search,Languages,2,https://en.wikipedia.org/wiki/Depth-first_search,Depth-First Search (DFS)
+PageRank,Tools,2,https://en.wikipedia.org/wiki/PageRank,PageRank Link Analysis Algorithm
+Community Detection,Tools,3,https://python-louvain.readthedocs.io/,Louvain Community Detection Guide
+Connected Components,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/component.html,NetworkX Connected Components Docs
+Adjacency Matrix,Tools,1,https://en.wikipedia.org/wiki/Adjacency_matrix,Adjacency Matrix Graph Representation
+Bipartite Graphs,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/bipartite.html,NetworkX Bipartite Graph Documentation
+Network Visualization,Tools,2,https://pyvis.readthedocs.io/en/latest/,PyVis Interactive Network Visualization
+Co-occurrence Analysis,Frameworks,2,https://en.wikipedia.org/wiki/Co-occurrence,Co-occurrence Matrix and Analysis
+Information Extraction,Frameworks,3,https://spacy.io/usage/rule-based-matching,spaCy Rule-Based Matching
+Named Entity Recognition,Frameworks,3,https://spacy.io/usage/linguistic-features#named-entities,spaCy Named Entity Recognition
+Part-of-Speech Tagging,Frameworks,2,https://spacy.io/usage/linguistic-features#pos-tagging,spaCy POS Tagging and Dependency Parsing
+Lemmatization,Frameworks,1,https://spacy.io/usage/linguistic-features#lemmatization,spaCy Lemmatization Guide
+Stop Words Removal,Frameworks,1,https://en.wikipedia.org/wiki/Stop_word,Stop Words in NLP
+N-gram Modeling,Frameworks,2,https://en.wikipedia.org/wiki/N-gram,N-gram Language Modeling
+Stemming,Frameworks,1,https://en.wikipedia.org/wiki/Stemming,Stemming Algorithms in IR
+WordNet,Frameworks,2,https://wordnet.princeton.edu/,Princeton WordNet Lexical Database
+Text Classification,Frameworks,3,https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html,Scikit-Learn Text Analytics
+Sentiment Analysis,Frameworks,2,https://en.wikipedia.org/wiki/Sentiment_analysis,Sentiment Analysis Overview
+Topic Modeling,Frameworks,3,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,Latent Dirichlet Allocation (LDA)
+Logistic Regression,Frameworks,2,https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression,Scikit-Learn Logistic Regression
+Decision Trees,Frameworks,2,https://scikit-learn.org/stable/modules/tree.html,Scikit-Learn Decision Trees
+Random Forest,Frameworks,3,https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees,Scikit-Learn Random Forests
+Gradient Boosting,Frameworks,3,https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosted-trees,Scikit-Learn Gradient Boosted Trees
+XGBoost,Frameworks,3,https://xgboost.readthedocs.io/,XGBoost Scalable Tree Boosting Library
+LightGBM,Frameworks,3,https://lightgbm.readthedocs.io/,LightGBM High-Performance Gradient Boosting
+K-Means Clustering,Frameworks,2,https://scikit-learn.org/stable/modules/clustering.html#k-means,Scikit-Learn K-Means Clustering
+DBSCAN,Frameworks,2,https://scikit-learn.org/stable/modules/clustering.html#dbscan,Scikit-Learn DBSCAN Clustering
+Principal Component Analysis,Frameworks,3,https://scikit-learn.org/stable/modules/decomposition.html#pca,Scikit-Learn PCA Dimensionality Reduction
+t-SNE,Frameworks,2,https://scikit-learn.org/stable/modules/manifold.html#t-sne,Scikit-Learn t-SNE Manifold Learning
+Linear Regression,Frameworks,2,https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares,Scikit-Learn Ordinary Least Squares
+Support Vector Machines,Frameworks,3,https://scikit-learn.org/stable/modules/svm.html,Scikit-Learn Support Vector Machines
+Naive Bayes,Frameworks,2,https://scikit-learn.org/stable/modules/naive_bayes.html,Scikit-Learn Naive Bayes Classifiers
+K-Nearest Neighbors,Frameworks,2,https://scikit-learn.org/stable/modules/neighbors.html,Scikit-Learn Nearest Neighbors
+Overfitting Prevention,Frameworks,2,https://en.wikipedia.org/wiki/Overfitting,Overfitting and Generalization in ML
+Bias-Variance Tradeoff,Frameworks,2,https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff,Bias-Variance Dilemma Guide
+Precision and Recall,Frameworks,1,https://en.wikipedia.org/wiki/Precision_and_recall,Precision and Recall Metrics
+ROC-AUC Curve,Frameworks,2,https://scikit-learn.org/stable/modules/model_evaluation.html#roc-metrics,Scikit-Learn Receiver Operating Characteristic
+Confusion Matrix,Frameworks,1,https://scikit-learn.org/stable/modules/model_evaluation.html#confusion-matrix,Scikit-Learn Confusion Matrix Guide
+F1 Score,Frameworks,1,https://en.wikipedia.org/wiki/F-score,F1 Score Harmonic Mean Evaluation
+Mean Squared Error,Frameworks,1,https://scikit-learn.org/stable/modules/model_evaluation.html#mean-squared-error,Scikit-Learn MSE Regression Metric
+R-Squared Metric,Frameworks,1,https://scikit-learn.org/stable/modules/model_evaluation.html#r2-score,Scikit-Learn R-squared Determination
+Hyperparameter Search,Frameworks,2,https://scikit-learn.org/stable/modules/grid_search.html,Scikit-Learn GridSearchCV Documentation
+Data Augmentation,Frameworks,2,https://www.tensorflow.org/tutorials/images/data_augmentation,Image and Data Augmentation Guide
+Class Imbalance Handling,Frameworks,2,https://imbalanced-learn.org/,Imbalanced-Learn Resampling Techniques
+SMOTE,Frameworks,2,https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html,Synthetic Minority Over-sampling Technique
+Feature Selection,Frameworks,2,https://scikit-learn.org/stable/modules/feature_selection.html,Scikit-Learn Feature Selection Methods
+Multithreading,Languages,3,https://docs.python.org/3/library/threading.html,Python Thread-Based Parallelism
+Multiprocessing,Languages,3,https://docs.python.org/3/library/multiprocessing.html,Python Process-Based Parallelism
+Coroutines,Languages,3,https://docs.python.org/3/library/asyncio-task.html,Python Coroutines and Tasks
+Memory Profiling,Tools,2,https://github.com/pythonprofilers/memory_profiler,Memory Profiler for Python
+Garbage Collection,Languages,2,https://docs.python.org/3/library/gc.html,Python Garbage Collector Interface
+Serialization with Pickle,Tools,1,https://docs.python.org/3/library/pickle.html,Python Object Serialization (pickle)
+Database Sharding,Databases,3,https://en.wikipedia.org/wiki/Shard_(database_architecture),Database Sharding Architecture
+Database Indexing Strategies,Databases,2,https://use-the-index-luke.com/,SQL Indexing Best Practices
+Query Optimization Plan,Databases,3,https://explainextended.com/,Understanding SQL Execution Plans
+Database Joins,Databases,2,https://en.wikipedia.org/wiki/Join_(SQL),SQL Inner Left Right and Full Joins
+Database Constraints,Databases,1,https://www.w3schools.com/sql/sql_constraints.asp,SQL Primary Key Foreign Key Constraints
+Data Warehousing Schema,Databases,3,https://en.wikipedia.org/wiki/Star_schema,Star Schema & Snowflake Schema Design
+OLAP vs OLTP,Databases,2,https://aws.amazon.com/compare/the-difference-between-olap-and-oltp/,OLAP vs OLTP Comparison Guide
+ETL Pipeline Design,Tools,3,https://aws.amazon.com/what-is/etl/,ETL Pipeline Architecture
+Data Ingestion Strategies,Tools,2,https://cloud.google.com/learn/what-is-data-ingestion,Data Ingestion Patterns
+Cloud Storage,Cloud/DevOps,2,https://aws.amazon.com/s3/,Amazon S3 Simple Storage Service
+Compute Engines,Cloud/DevOps,2,https://aws.amazon.com/ec2/,Amazon Elastic Compute Cloud (EC2)
+Identity and Access Management,Cloud/DevOps,2,https://aws.amazon.com/iam/,AWS IAM Access Management Guide
+Virtual Private Cloud,Cloud/DevOps,3,https://aws.amazon.com/vpc/,AWS VPC Virtual Private Cloud Networking
+Load Balancer Architecture,Cloud/DevOps,2,https://aws.amazon.com/elasticloadbalancing/,AWS Elastic Load Balancing
+Auto Scaling,Cloud/DevOps,2,https://aws.amazon.com/autoscaling/,AWS Auto Scaling Principles
+Service Mesh,Cloud/DevOps,3,https://istio.io/latest/about/service-mesh/,Istio Service Mesh Architecture
+Kubernetes Pods,Cloud/DevOps,2,https://kubernetes.io/docs/concepts/workloads/pods/,Kubernetes Pods Lifecycle
+Kubernetes Deployments,Cloud/DevOps,2,https://kubernetes.io/docs/concepts/workloads/controllers/deployment/,Kubernetes Deployments Guide
+Kubernetes Services,Cloud/DevOps,2,https://kubernetes.io/docs/concepts/services-networking/service/,Kubernetes Services & Ingress
+Infrastructure Monitoring,Cloud/DevOps,2,https://prometheus.io/,Prometheus Infrastructure Monitoring
+Log Aggregation,Cloud/DevOps,2,https://www.elastic.co/what-is/elk-stack,Elasticsearch Logstash Kibana (ELK Stack)
+Alerting Systems,Cloud/DevOps,2,https://prometheus.io/docs/alerting/latest/overview/,Prometheus Alertmanager Guide
+Backup and Recovery,Cloud/DevOps,2,https://aws.amazon.com/backup/,AWS Backup Management Principles
+Cloud Migration,Cloud/DevOps,3,https://aws.amazon.com/cloud-migration/,Cloud Migration Framework
+DevOps Culture,Soft Skills,1,https://www.atlassian.com/devops/what-is-devops,Atlassian What is DevOps Culture
+Agile Estimation,Soft Skills,1,https://www.atlassian.com/agile/project-management/estimation,Story Points & Agile Estimation Guide
+User Stories,Soft Skills,1,https://www.atlassian.com/agile/project-management/user-stories,Writing Effective User Stories
+Technical Debt Management,Soft Skills,2,https://martinfowler.com/bliki/TechnicalDebt.html,Martin Fowler Technical Debt Concept
+Sprint Review,Soft Skills,1,https://www.scrum.org/resources/what-is-a-sprint-review,Scrum Sprint Review Guidelines
+Continuous Improvement,Soft Skills,1,https://en.wikipedia.org/wiki/Kaizen,Kaizen Continuous Improvement Strategy
+Pair Programming,Soft Skills,1,https://martinfowler.com/articles/on-pair-programming.html,Martin Fowler On Pair Programming
+Cross-Team Alignment,Soft Skills,2,https://hbr.org/2018/02/how-to-foster-collaboration-between-teams,HBR Cross-Team Alignment Guide
+Effective Feedback,Soft Skills,1,https://hbr.org/2019/03/the-feedback-fallacy,Giving and Receiving Constructive Feedback
+Presentation Delivery,Soft Skills,2,https://www.ted.com/playlists/574/how_to_give_a_great_talk,TED Talks Guide to Public Speaking
+Interview Preparation,Soft Skills,2,https://github.com/jwasham/coding-interview-university,Coding Interview University Guide
+Resume Writing,Soft Skills,1,https://www.careercup.com/resume,Gayle Laakmann McDowell Resume Guide
+Technical Blogging,Soft Skills,1,https://medium.com/@swyx/learn-in-public-107c33ca7401,Learn In Public by Shawn Wang
+Portfolio Building,Soft Skills,2,https://www.freecodecamp.org/news/how-to-build-a-developer-portfolio-website/,FreeCodeCamp Developer Portfolio Guide
+Ethical Engineering,Soft Skills,2,https://www.acm.org/code-of-ethics,ACM Code of Ethics and Professional Conduct
+Intellectual Property in Software,Soft Skills,2,https://choosealicense.com/,Choose an Open Source License Guide
+Open Source Licensing,Soft Skills,1,https://opensource.org/licenses,Open Source Initiative (OSI) Licenses
+Semantic HTML,Languages,1,https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html,MDN Semantic HTML Guide
+CSS Grid,Languages,2,https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout,MDN CSS Grid Layout Guide
+CSS Flexbox,Languages,1,https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout,MDN CSS Flexible Box Layout
+DOM Manipulation,Languages,2,https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model,MDN Document Object Model Guide
+Event Loop in JavaScript,Languages,2,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop,MDN JavaScript Event Loop Explained
+Promises and Async/Await,Languages,2,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise,MDN JavaScript Promises Guide
+Fetch API,Languages,1,https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API,MDN Fetch API Reference
+Web Storage API,Languages,1,https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API,MDN Web Storage (LocalStorage)
+Single Page Applications,Frameworks,2,https://developer.mozilla.org/en-US/docs/Glossary/SPA,MDN Single-Page Application (SPA)
+Component-Based Architecture,Frameworks,2,https://react.dev/learn/your-first-component,React Component Architecture
+Virtual DOM,Frameworks,2,https://legacy.reactjs.org/docs/faq-internals.html,Virtual DOM and Internals
+Hooks in React,Frameworks,2,https://react.dev/reference/react/hooks,React Hooks Reference
+Server Components,Frameworks,3,https://react.dev/reference/rsc/server-components,React Server Components
+State Hydration,Frameworks,2,https://web.dev/rendering-on-the-web/,Web Rendering and Client Hydration
+Routing in Web Apps,Frameworks,2,https://nextjs.org/docs/app/building-your-application/routing,Next.js App Router Guide
+Serverless Backends,Cloud/DevOps,2,https://aws.amazon.com/serverless/,AWS Serverless Architecture Guide
+GraphQL Resolvers,Frameworks,2,https://graphql.org/learn/execution/,GraphQL Execution and Resolvers
+Database Foreign Keys,Databases,1,https://www.postgresql.org/docs/current/ddl-constraints.html#DDL-CONSTRAINTS-FK,PostgreSQL Foreign Key Constraints
+Data Normalization 1NF-3NF,Databases,2,https://en.wikipedia.org/wiki/Database_normalization,Database Normalization Forms 1NF through 3NF
+Data Denormalization,Databases,2,https://en.wikipedia.org/wiki/Denormalization,Database Denormalization Tradeoffs
+Columnar Storage,Databases,3,https://cloud.google.com/bigquery/docs/storage_overview,BigQuery Columnar Storage Architecture
+Message Deduplication,Frameworks,2,https://aws.amazon.com/sqs/features/,Amazon SQS FIFO and Deduplication
+Idempotency in APIs,Frameworks,2,https://restfulapi.net/idempotent-rest-apis/,Idempotency in RESTful APIs
+Circuit Breaker Pattern,Frameworks,3,https://martinfowler.com/bliki/CircuitBreaker.html,Martin Fowler Circuit Breaker Pattern
+Rate Limiting,Cloud/DevOps,2,https://www.cloudflare.com/learning/bots/what-is-rate-limiting/,Cloudflare Rate Limiting Guide
+CORS Configuration,Frameworks,1,https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS,MDN Cross-Origin Resource Sharing (CORS)
+Content Security Policy,Cloud/DevOps,2,https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP,MDN Content Security Policy (CSP)
+Cross-Site Scripting (XSS),Cloud/DevOps,2,https://owasp.org/www-community/attacks/xss/,OWASP Cross-Site Scripting Prevention
+SQL Injection Prevention,Databases,2,https://owasp.org/www-community/attacks/SQL_Injection,OWASP SQL Injection Guide
+CSRF Protection,Cloud/DevOps,2,https://owasp.org/www-community/attacks/csrf,OWASP Cross-Site Request Forgery Guide
+Secure Hash Algorithms,Tools,2,https://en.wikipedia.org/wiki/Secure_Hash_Algorithms,SHA Cryptographic Hash Functions
+Public Key Cryptography,Tools,3,https://en.wikipedia.org/wiki/Public-key_cryptography,Asymmetric Public Key Cryptography
+Digital Signatures,Tools,2,https://en.wikipedia.org/wiki/Digital_signature,Digital Signatures Mathematical Scheme
+Certificate Authorities,Cloud/DevOps,2,https://letsencrypt.org/howitworks/,Let's Encrypt Certificate Authority Guide
+Zero Trust Architecture,Cloud/DevOps,3,https://www.cisa.gov/zero-trust-maturity-model,CISA Zero Trust Security Architecture
+Single Sign-On (SSO),Cloud/DevOps,2,https://auth0.com/intro-to-iam/what-is-sso,Single Sign-On (SSO) Overview
+OpenID Connect,Cloud/DevOps,2,https://openid.net/connect/,OpenID Connect Identity Layer
+API Documentation,Tools,1,https://swagger.io/specification/,OpenAPI / Swagger Specification
+API Versioning,Frameworks,1,https://restfulapi.net/versioning/,REST API Versioning Strategies
+SDK Development,Tools,3,https://en.wikipedia.org/wiki/Software_development_kit,Software Development Kit Concepts
+Command Line Arguments,Languages,1,https://docs.python.org/3/library/argparse.html,Python argparse Module Documentation
+Environment Variables,Tools,1,https://12factor.net/config,The Twelve-Factor App: Config in Environment
+Twelve-Factor App,Cloud/DevOps,2,https://12factor.net/,The Twelve-Factor App Methodology
+Monolithic Architecture,Frameworks,2,https://microservices.io/patterns/monolithic.html,Monolithic Software Architecture Pattern
+Microservices Architecture,Frameworks,3,https://microservices.io/patterns/microservices.html,Microservice Architecture Pattern
+Event Sourcing,Frameworks,3,https://martinfowler.com/eaaDev/EventSourcing.html,Martin Fowler Event Sourcing Pattern
+CQRS Pattern,Frameworks,3,https://martinfowler.com/bliki/CQRS.html,Command Query Responsibility Segregation (CQRS)
+Domain-Driven Design,Frameworks,4,https://martinfowler.com/bliki/DomainDrivenDesign.html,Martin Fowler Domain-Driven Design
+Service-Oriented Architecture,Frameworks,3,https://en.wikipedia.org/wiki/Service-oriented_architecture,Service-Oriented Architecture (SOA)
+Enterprise Integration Patterns,Frameworks,3,https://www.enterpriseintegrationpatterns.com/,Enterprise Integration Patterns Reference
+Database Replication Lag,Databases,2,https://en.wikipedia.org/wiki/Replication_(computing)#Replication_lag,Managing Database Replication Lag
+Leader-Follower Replication,Databases,3,https://en.wikipedia.org/wiki/Master/slave_(technology),Primary-Replica Database Architecture
+Multi-Region Deployment,Cloud/DevOps,3,https://aws.amazon.com/solutions/case-studies/multi-region-architecture/,AWS Multi-Region Application Architecture
+Failover Strategies,Cloud/DevOps,2,https://en.wikipedia.org/wiki/Failover,Automated System Failover Principles
+Health Checks,Cloud/DevOps,1,https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/,Kubernetes Liveness and Readiness Probes
+Blue-Green Deployment,Cloud/DevOps,2,https://martinfowler.com/bliki/BlueGreenDeployment.html,Martin Fowler Blue-Green Deployment
+Canary Releases,Cloud/DevOps,2,https://martinfowler.com/bliki/CanaryRelease.html,Martin Fowler Canary Releases
+Rolling Updates,Cloud/DevOps,2,https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/,Kubernetes Rolling Updates Guide
+Database Rollback,Databases,2,https://flywaydb.org/documentation/command/undo,Database Migration Undo and Rollbacks
+Feature Flags,Tools,2,https://martinfowler.com/articles/feature-toggles.html,Martin Fowler Feature Toggles Guide
+A/B Testing Framework,Frameworks,2,https://en.wikipedia.org/wiki/A/B_testing,A/B Testing Statistical Framework
+Telemetry Pipelines,Cloud/DevOps,3,https://opentelemetry.io/,OpenTelemetry Standards
+Distributed Logging,Cloud/DevOps,3,https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html,Elasticsearch Distributed Logging
+Log Parsing,Tools,2,https://docs.fluentd.org/,Fluentd Log Parsing and Forwarding
+Log Retention Policies,Cloud/DevOps,1,https://aws.amazon.com/blogs/architecture/building-a-cost-effective-and-compliant-log-retention-architecture-on-aws/,AWS Compliant Log Retention Architecture
+Audit Logging,Cloud/DevOps,2,https://cloud.google.com/logging/docs/audit,Google Cloud Audit Logs Overview
+Access Control Lists,Cloud/DevOps,2,https://en.wikipedia.org/wiki/Access-control_list,Network and File Access Control Lists
+Principle of Least Privilege,Cloud/DevOps,2,https://en.wikipedia.org/wiki/Principle_of_least_privilege,Information Security Principle of Least Privilege
+Data Encryption at Rest,Cloud/DevOps,2,https://aws.amazon.com/kms/,AWS Key Management Service & Encryption at Rest
+Data Encryption in Transit,Cloud/DevOps,2,https://en.wikipedia.org/wiki/Transport_Layer_Security,TLS Data Encryption in Transit
+Cross-Region Replication,Databases,3,https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html,Amazon S3 Cross-Region Replication
+Data Archival,Databases,2,https://aws.amazon.com/glacier/,Amazon S3 Glacier Long-Term Data Archival
+Data Anonymization,Tools,2,https://en.wikipedia.org/wiki/Data_anonymization,Data Anonymization and Pseudonymization
+Differential Privacy,Frameworks,4,https://en.wikipedia.org/wiki/Differential_privacy,Differential Privacy Mathematical Foundations
+Data Lineage,Tools,3,https://cloud.google.com/dataplex/docs/data-lineage-overview,Google Cloud Dataplex Data Lineage
+Data Cataloging,Tools,2,https://aws.amazon.com/glue/,AWS Glue Data Catalog Overview
+Metadata Management,Tools,2,https://en.wikipedia.org/wiki/Metadata_management,Enterprise Metadata Management
+Master Data Management,Tools,3,https://en.wikipedia.org/wiki/Master_data_management,Master Data Management Architecture
+Data Lake Governance,Tools,3,https://aws.amazon.com/lake-formation/,AWS Lake Formation Data Governance
+Real-Time Analytics,Frameworks,3,https://clickhouse.com/docs,ClickHouse Real-Time Analytics DBMS
+Event Streaming Platforms,Frameworks,3,https://kafka.apache.org/,Apache Kafka Distributed Streaming
+Message Brokers Architecture,Frameworks,3,https://www.rabbitmq.com/getstarted.html,RabbitMQ Message Broker Fundamentals
+Publish-Subscribe Pattern,Frameworks,2,https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern,Pub/Sub Architectural Pattern
+Dead Letter Queues,Frameworks,2,https://aws.amazon.com/sqs/features/,Dead Letter Queue Concepts in Messaging
+Point-to-Point Messaging,Frameworks,2,https://en.wikipedia.org/wiki/Message_queue,Message Queuing Architecture
+Stream Ingestion,Frameworks,3,https://aws.amazon.com/kinesis/,Amazon Kinesis Real-Time Stream Processing
+Batch Ingestion,Frameworks,2,https://cloud.google.com/dataflow,Google Cloud Dataflow Batch & Streaming
+Incremental Processing,Frameworks,3,https://hudi.apache.org/,Apache Hudi Incremental Data Processing
+Change Data Capture,Databases,3,https://debezium.io/,Debezium Open Source Change Data Capture
+Database Triggers,Databases,2,https://www.postgresql.org/docs/current/plpgsql-trigger.html,PostgreSQL Trigger Procedures
+Database Stored Procedures,Databases,2,https://www.postgresql.org/docs/current/sql-createprocedure.html,PostgreSQL Stored Procedures Guide
+Database Views,Databases,1,https://www.postgresql.org/docs/current/sql-createview.html,PostgreSQL SQL Views Guide
+Materialized Views,Databases,2,https://www.postgresql.org/docs/current/rules-materializedviews.html,PostgreSQL Materialized Views
+Database Query Execution,Databases,3,https://use-the-index-luke.com/,Understanding Query Plans and Latency
+Query Cost Estimation,Databases,3,https://www.postgresql.org/docs/current/using-explain.html,PostgreSQL EXPLAIN Cost Analysis
+Index Scans,Databases,2,https://www.postgresql.org/docs/current/indexes-examine.html,PostgreSQL Index Scan Types
+B-Tree Indexes,Databases,2,https://en.wikipedia.org/wiki/B-tree,B-Tree and B+ Tree Data Structures
+Hash Indexes,Databases,2,https://www.postgresql.org/docs/current/indexes-types.html,PostgreSQL Hash and GIN Indexes
+Full-Text Search,Databases,2,https://www.postgresql.org/docs/current/textsearch.html,PostgreSQL Full Text Search
+Geospatial Queries,Databases,3,https://postgis.net/documentation/,PostGIS Spatial Database Extender
+Time-Series Databases,Databases,3,https://docs.timescale.com/,TimescaleDB Time-Series Documentation
+Column-Oriented Databases,Databases,3,https://clickhouse.com/docs/en/intro,ClickHouse Columnar Architecture
+Document Databases,Databases,2,https://www.mongodb.com/basics,MongoDB Document Model Basics
+Key-Value Databases,Databases,2,https://redis.io/docs/about/,Redis Key-Value Data Store
+Graph Databases,Databases,3,https://neo4j.com/developer/graph-database/,Neo4j Graph Database Concepts
+Search Engines Architecture,Databases,3,https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html,Elasticsearch Distributed Search
+Vector Search,Databases,3,https://weaviate.io/developers/weaviate,Weaviate Vector Search Engine
+Approximate Nearest Neighbors,Frameworks,3,https://github.com/facebookresearch/faiss,FAISS Vector Similarity Search
+Cosine Distance,Frameworks,1,https://en.wikipedia.org/wiki/Cosine_similarity,Cosine Distance for Embeddings
+Dot Product Similarity,Frameworks,1,https://en.wikipedia.org/wiki/Dot_product,Inner Product Similarity Metric
+Manhattan Distance,Frameworks,1,https://en.wikipedia.org/wiki/Taxicab_geometry,Manhattan Distance L1 Metric
+Minkowski Distance,Frameworks,1,https://en.wikipedia.org/wiki/Minkowski_distance,Minkowski Generalized Metric
+Hamming Distance,Frameworks,1,https://en.wikipedia.org/wiki/Hamming_distance,Hamming Distance Bit Metric
+Matrix Factorization,Frameworks,3,https://en.wikipedia.org/wiki/Matrix_factorization_(recommender_systems),Matrix Factorization for Recommenders
+Collaborative Filtering,Frameworks,3,https://en.wikipedia.org/wiki/Collaborative_filtering,Collaborative Filtering Algorithms
+Content-Based Filtering,Frameworks,2,https://en.wikipedia.org/wiki/Recommender_system#Content-based_filtering,Content-Based Recommendation Systems
+Hybrid Recommender Systems,Frameworks,3,https://en.wikipedia.org/wiki/Recommender_system#Hybrid_recommender_systems,Hybrid Recommender Architectures
+Association Rule Mining,Frameworks,3,https://en.wikipedia.org/wiki/Association_rule_learning,Apriori Algorithm and Association Rules
+Cold Start Problem,Frameworks,2,https://en.wikipedia.org/wiki/Cold_start_(recommender_systems),Handling Cold Start in Recommendation
+Evaluation of Recommenders,Frameworks,2,https://en.wikipedia.org/wiki/Mean_reciprocal_rank,Mean Reciprocal Rank and NDCG
+Precision at K,Frameworks,1,https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Precision_at_k,Precision at K Metric
+Recall at K,Frameworks,1,https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval),Recall at K in Information Retrieval
+NDCG Metric,Frameworks,2,https://en.wikipedia.org/wiki/Discounted_cumulative_gain,Normalized Discounted Cumulative Gain
+Graph Density,Tools,1,https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.classes.function.density.html,NetworkX Graph Density
+Graph Diameter,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.distance_measures.diameter.html,NetworkX Graph Diameter and Radius
+Betweenness Centrality,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.betweenness_centrality.html,NetworkX Betweenness Centrality
+Closeness Centrality,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.closeness_centrality.html,NetworkX Closeness Centrality
+Degree Centrality,Tools,1,https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.degree_centrality.html,NetworkX Degree Centrality
+Eigenvector Centrality,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.eigenvector_centrality.html,NetworkX Eigenvector Centrality
+K-Core Decomposition,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.core.k_core.html,NetworkX K-Core Subgraphs
+Bipartite Projection,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/bipartite.html#module-networkx.algorithms.bipartite.projection,NetworkX Bipartite Weighted Projections
+Graph Clustering Coefficient,Tools,2,https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.cluster.clustering.html,NetworkX Clustering Coefficient
+Graph Modularity,Tools,2,https://en.wikipedia.org/wiki/Modularity_(networks),Network Modularity in Community Detection
+Affinity Propagation,Frameworks,3,https://scikit-learn.org/stable/modules/clustering.html#affinity-propagation,Scikit-Learn Affinity Propagation
+Hierarchical Clustering,Frameworks,2,https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering,Scikit-Learn Agglomerative Clustering
+Gaussian Mixture Models,Frameworks,3,https://scikit-learn.org/stable/modules/mixture.html,Scikit-Learn Gaussian Mixture Models
+Singular Value Decomposition,Frameworks,3,https://en.wikipedia.org/wiki/Singular_value_decomposition,SVD Matrix Decomposition in Linear Algebra
+Principal Component Rotation,Frameworks,3,https://en.wikipedia.org/wiki/Principal_component_analysis,Eigenvectors and Principal Components
+Multivariate Normal Distribution,Frameworks,3,https://en.wikipedia.org/wiki/Multivariate_normal_distribution,Multivariate Statistics Fundamentals
+Hypothesis Testing,Frameworks,2,https://en.wikipedia.org/wiki/Statistical_hypothesis_testing,Null Hypothesis and p-value Testing
+P-Value Interpretation,Frameworks,1,https://www.nature.com/articles/nmeth.3288,Nature: Points of Significance: P values
+Confidence Intervals,Frameworks,1,https://en.wikipedia.org/wiki/Confidence_interval,Confidence Intervals in Estimation
+Statistical Power,Frameworks,2,https://en.wikipedia.org/wiki/Power_of_a_test,Statistical Power and Sample Size
+Standard Deviation and Variance,Frameworks,1,https://en.wikipedia.org/wiki/Standard_deviation,Variance and Standard Deviation Formulations
+Normal Distribution,Frameworks,1,https://en.wikipedia.org/wiki/Normal_distribution,Gaussian Normal Distribution Properties
+Poisson Distribution,Frameworks,2,https://en.wikipedia.org/wiki/Poisson_distribution,Poisson Processes and Rates
+Binomial Distribution,Frameworks,1,https://en.wikipedia.org/wiki/Binomial_distribution,Binomial Experiments and Probability
+Bayes' Theorem,Frameworks,2,https://en.wikipedia.org/wiki/Bayes%27_theorem,Bayes Rule and Prior/Posterior Probability
+Maximum Likelihood Estimation,Frameworks,3,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,Maximum Likelihood Estimation in Statistics
+Monte Carlo Simulation,Frameworks,3,https://en.wikipedia.org/wiki/Monte_Carlo_method,Monte Carlo Sampling Methods
+Bootstrap Sampling,Frameworks,2,https://en.wikipedia.org/wiki/Bootstrapping_(statistics),Bootstrapping for Confidence Intervals
+Cross-Validation K-Fold,Frameworks,2,https://scikit-learn.org/stable/modules/cross_validation.html#k-fold,K-Fold Cross-Validation Strategy
+Stratified K-Fold,Frameworks,2,https://scikit-learn.org/stable/modules/cross_validation.html#stratified-k-fold,Stratified K-Fold for Imbalanced Data
+Time-Series Split,Frameworks,2,https://scikit-learn.org/stable/modules/cross_validation.html#time-series-split,Temporal Cross-Validation Strategy
+Data Leakage Prevention,Frameworks,2,https://reproducible.cs.princeton.edu/,Preventing Data Leakage in Machine Learning
+Pipelines and Transformers,Frameworks,2,https://scikit-learn.org/stable/modules/compose.html,Scikit-Learn Composite Transformers
+Feature Union,Frameworks,2,https://scikit-learn.org/stable/modules/compose.html#featureunion-composite-feature-spaces,Scikit-Learn FeatureUnion
+ColumnTransformer,Frameworks,2,https://scikit-learn.org/stable/modules/compose.html#columntransformer-for-heterogeneous-data,Scikit-Learn ColumnTransformer Guide
+One-Hot Encoding,Frameworks,1,https://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features,Scikit-Learn One-Hot Encoder
+Ordinal Encoding,Frameworks,1,https://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features,Scikit-Learn Ordinal Encoder
+StandardScaler,Frameworks,1,https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling,StandardScaler Normalization
+MinMaxScaler,Frameworks,1,https://scikit-learn.org/stable/modules/preprocessing.html#scaling-features-to-a-range,MinMaxScaler Bounded Normalization
+RobustScaler,Frameworks,1,https://scikit-learn.org/stable/modules/preprocessing.html#scaling-data-with-outliers,RobustScaler for Outlier Resilient Scaling
+Imputation of Missing Values,Frameworks,2,https://scikit-learn.org/stable/modules/impute.html,Scikit-Learn Missing Value Imputation
+KNN Imputer,Frameworks,2,https://scikit-learn.org/stable/modules/impute.html#nearest-neighbors-imputation,KNN Imputer Documentation
+Iterative Imputer,Frameworks,3,https://scikit-learn.org/stable/modules/impute.html#iterative-imputer,MICE Multiple Imputation by Chained Equations
+Target Encoding,Frameworks,2,https://scikit-learn.org/stable/modules/preprocessing.html#target-encoder,Target Encoding for High-Cardinality Categoricals
+Variance Thresholding,Frameworks,1,https://scikit-learn.org/stable/modules/feature_selection.html#removing-features-with-low-variance,Low-Variance Feature Removal
+SelectKBest,Frameworks,2,https://scikit-learn.org/stable/modules/feature_selection.html#univariate-feature-selection,Univariate Feature Selection
+Recursive Feature Elimination,Frameworks,2,https://scikit-learn.org/stable/modules/feature_selection.html#rfe,RFE Feature Selection
+Feature Importance via Tree Ensembles,Frameworks,2,https://scikit-learn.org/stable/modules/ensemble.html#feature-importance-evaluation,MDI Feature Importance
+Permutation Feature Importance,Frameworks,2,https://scikit-learn.org/stable/modules/permutation_importance.html,Scikit-Learn Permutation Importance
+SHAP Values,Frameworks,3,https://shap.readthedocs.io/,SHAP Model Interpretability Library
+LIME,Frameworks,3,https://github.com/marcotcr/lime,LIME Local Interpretable Model Explanations
+Partial Dependence Plots,Frameworks,2,https://scikit-learn.org/stable/modules/partial_dependence.html,Scikit-Learn Partial Dependence
+Model Calibration,Frameworks,2,https://scikit-learn.org/stable/modules/calibration.html,Scikit-Learn Probability Calibration
+Platt Scaling,Frameworks,2,https://en.wikipedia.org/wiki/Platt_scaling,Platt Scaling for Logistic Probabilities
+Isotonic Regression,Frameworks,2,https://scikit-learn.org/stable/modules/isotonic.html,Scikit-Learn Isotonic Calibration
+Brier Score,Frameworks,1,https://scikit-learn.org/stable/modules/model_evaluation.html#brier-score-loss,Brier Score Probability Metric
+Log Loss,Frameworks,1,https://scikit-learn.org/stable/modules/model_evaluation.html#log-loss,Cross-Entropy and Log Loss
+Hinge Loss,Frameworks,1,https://en.wikipedia.org/wiki/Hinge_loss,Hinge Loss in Support Vector Machines
+Softmax Function,Frameworks,1,https://en.wikipedia.org/wiki/Softmax_function,Softmax Multi-Class Activation
+Sigmoid Function,Frameworks,1,https://en.wikipedia.org/wiki/Sigmoid_function,Sigmoid Logistic Curve Function
+ReLU Activation,Frameworks,1,https://en.wikipedia.org/wiki/Rectifier_(neural_networks),Rectified Linear Unit (ReLU)
+Adam Optimizer,Frameworks,2,https://arxiv.org/abs/1412.6980,Adam: A Method for Stochastic Optimization
+SGD with Momentum,Frameworks,2,https://pytorch.org/docs/stable/generated/torch.optim.SGD.html,Stochastic Gradient Descent with Momentum
+Learning Rate Scheduling,Frameworks,2,https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate,PyTorch Learning Rate Schedulers
+Early Stopping,Frameworks,1,https://scikit-learn.org/stable/modules/ensemble.html#early-stopping-in-gradient-boosting,Early Stopping to Prevent Overfitting
+Weight Decay,Frameworks,2,https://en.wikipedia.org/wiki/Weight_decay,L2 Weight Decay in Deep Learning
+Batch Normalization,Frameworks,3,https://arxiv.org/abs/1502.03167,Batch Normalization Paper
+Layer Normalization,Frameworks,3,https://arxiv.org/abs/1607.06450,Layer Normalization Paper
+Dropout Regularization,Frameworks,2,https://jmlr.org/papers/v15/srivastava14a.html,Dropout: Simple Way to Prevent Overfitting
+Residual Connections,Frameworks,3,https://arxiv.org/abs/1512.03385,Deep Residual Learning for Image Recognition
+Self-Attention Mechanism,Frameworks,3,https://arxiv.org/abs/1706.03762,Attention Is All You Need Paper
+Positional Encoding,Frameworks,3,https://jalammar.github.io/illustrated-transformer/,Positional Encodings in Transformers
+Multi-Head Attention,Frameworks,3,https://arxiv.org/abs/1706.03762,Multi-Head Attention Explanation
+Autoencoders,Frameworks,3,https://www.deeplearningbook.org/contents/autoencoders.html,Deep Learning Book: Autoencoders
+Generative Adversarial Networks,Frameworks,4,https://arxiv.org/abs/1406.2661,Generative Adversarial Networks by Goodfellow
+Diffusion Models,Frameworks,5,https://arxiv.org/abs/2006.11239,Denoising Diffusion Probabilistic Models
+Knowledge Distillation,Frameworks,3,https://arxiv.org/abs/1503.02531,Distilling Knowledge in Neural Networks
+Model Pruning,Frameworks,3,https://pytorch.org/tutorials/intermediate/pruning_tutorial.html,PyTorch Neural Network Pruning
+Quantization Aware Training,Frameworks,4,https://pytorch.org/docs/stable/quantization.html#quantization-aware-training,PyTorch QAT Documentation
+Federated Learning,Frameworks,4,https://www.tensorflow.org/federated,TensorFlow Federated Learning
+Active Learning,Frameworks,3,https://en.wikipedia.org/wiki/Active_learning_(machine_learning),Active Learning Query Strategies
+Weak Supervision,Frameworks,3,https://snorkel.ai/weak-supervision/,Weak Supervision & Snorkel Architecture
+Data Version Control,Tools,2,https://dvc.org/doc,DVC Data Version Control Documentation
+Container Registries,Cloud/DevOps,2,https://docs.docker.com/docker-hub/,Docker Hub & Container Registries
+Kubernetes Ingress,Cloud/DevOps,2,https://kubernetes.io/docs/concepts/services-networking/ingress/,Kubernetes Ingress Controller
+Kubernetes ConfigMaps,Cloud/DevOps,1,https://kubernetes.io/docs/concepts/configuration/configmap/,Kubernetes ConfigMaps and Secrets
+Helm Charts,Cloud/DevOps,2,https://helm.sh/docs/topics/charts/,Helm Charts Guide
+Terraform Modules,Cloud/DevOps,2,https://developer.hashicorp.com/terraform/language/modules,Terraform Modules Guide
+Ansible Playbooks,Cloud/DevOps,2,https://docs.ansible.com/ansible/latest/playbook_guide/index.html,Ansible Playbooks Guide
+GitHub Pull Requests,Tools,1,https://docs.github.com/en/pull-requests,GitHub Pull Request Collaboration
+Git Branching Strategies,Tools,1,https://www.atlassian.com/git/tutorials/comparing-workflows,Gitflow and Feature Branching
+Git Rebase,Tools,1,https://git-scm.com/docs/git-rebase,Git Rebase Documentation
+Git Submodules,Tools,2,https://git-scm.com/book/en/v2/Git-Tools-Submodules,Git Submodules Documentation
+Postman Collections,Tools,1,https://learning.postman.com/docs/sending-requests/intro-to-collections/,Postman Collections and Test Scripts
+Newman CLI,Tools,1,https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/,Newman CLI Runner for Postman
+Swagger UI,Tools,1,https://swagger.io/tools/swagger-ui/,Swagger Interactive API Documentation
+OpenAPI Specification,Tools,2,https://spec.openapis.org/oas/latest.html,Official OpenAPI Specification
+Redoc,Tools,1,https://redocly.com/redoc,Redoc API Documentation Generator
+Streamlit Caching,Tools,1,https://docs.streamlit.io/develop/concepts/architecture/caching,Streamlit Caching Best Practices
+PyVis Visualization Engine,Tools,2,https://pyvis.readthedocs.io/,PyVis Interactive Network Documentation
+NetworkX Graph Theory,Tools,2,https://networkx.org/documentation/stable/tutorial.html,NetworkX Official Tutorial
+PyPDF Library,Tools,1,https://pypdf.readthedocs.io/en/stable/,PyPDF PDF Extraction Library
+Python-Docx Library,Tools,1,https://python-docx.readthedocs.io/en/latest/,Python-Docx Word Document Library
+PyArrow Columnar Storage,Tools,2,https://arrow.apache.org/docs/python/,Apache Arrow Python Documentation
+Fastparquet Engine,Tools,2,https://fastparquet.readthedocs.io/,Fastparquet Parquet Storage Engine
+Scikit-Learn TF-IDF Vectorizer,Frameworks,2,https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html,Scikit-Learn TfidfVectorizer API
+spaCy PhraseMatcher Engine,Frameworks,2,https://spacy.io/api/phrasematcher,spaCy PhraseMatcher API Documentation
+Pandas DataFrames,Frameworks,2,https://pandas.pydata.org/docs/reference/frame.html,Pandas DataFrame API Reference
+NumPy Ndarrays,Frameworks,2,https://numpy.org/doc/stable/reference/arrays.ndarray.html,NumPy ndarray Object Reference
+PyTest Test Runner,Tools,1,https://docs.pytest.org/en/stable/getting-started.html,PyTest Getting Started Guide

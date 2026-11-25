@@ -1,0 +1,207 @@
+role,skill,count,total_postings,demand,category
+Backend Developer,Docker,50,50,1.0,Cloud/DevOps
+Backend Developer,PostgreSQL,37,50,0.74,Databases
+Backend Developer,Git,25,50,0.5,Tools
+Backend Developer,Linux,25,50,0.5,Cloud/DevOps
+Backend Developer,REST APIs,25,50,0.5,Frameworks
+Backend Developer,Redis,25,50,0.5,Databases
+Backend Developer,System Design,25,50,0.5,Frameworks
+Backend Developer,MongoDB,25,50,0.5,Databases
+Backend Developer,CI/CD,13,50,0.26,Cloud/DevOps
+Backend Developer,Django,13,50,0.26,Frameworks
+Backend Developer,FastAPI,13,50,0.26,Frameworks
+Backend Developer,Microservices,13,50,0.26,Frameworks
+Backend Developer,Python,13,50,0.26,Languages
+Backend Developer,Algorithms,13,50,0.26,Languages
+Backend Developer,Apache Kafka,13,50,0.26,Frameworks
+Backend Developer,Data Structures,13,50,0.26,Languages
+Backend Developer,Java,13,50,0.26,Languages
+Backend Developer,MySQL,13,50,0.26,Databases
+Backend Developer,Object-Oriented Programming,13,50,0.26,Languages
+Backend Developer,Spring Boot,13,50,0.26,Frameworks
+Backend Developer,Spring Framework,13,50,0.26,Frameworks
+Backend Developer,AWS,12,50,0.24,Cloud/DevOps
+Backend Developer,Express,12,50,0.24,Frameworks
+Backend Developer,Node.js,12,50,0.24,Frameworks
+Backend Developer,TypeScript,12,50,0.24,Languages
+Backend Developer,Unit Testing,12,50,0.24,Tools
+Backend Developer,Concurrency,12,50,0.24,Languages
+Backend Developer,Distributed Systems,12,50,0.24,Frameworks
+Backend Developer,Go,12,50,0.24,Languages
+Backend Developer,Kubernetes,12,50,0.24,Cloud/DevOps
+Backend Developer,Problem Solving,12,50,0.24,Soft Skills
+Backend Developer,gRPC,12,50,0.24,Frameworks
+Cloud Engineer,Terraform,50,50,1.0,Cloud/DevOps
+Cloud Engineer,Docker,37,50,0.74,Cloud/DevOps
+Cloud Engineer,Bash,26,50,0.52,Languages
+Cloud Engineer,AWS,25,50,0.5,Cloud/DevOps
+Cloud Engineer,Linux,25,50,0.5,Cloud/DevOps
+Cloud Engineer,Python,25,50,0.5,Languages
+Cloud Engineer,Azure,25,50,0.5,Cloud/DevOps
+Cloud Engineer,Kubernetes,25,50,0.5,Cloud/DevOps
+Cloud Engineer,Cloud Security,13,50,0.26,Cloud/DevOps
+Cloud Engineer,CloudFormation,13,50,0.26,Cloud/DevOps
+Cloud Engineer,Serverless,13,50,0.26,Cloud/DevOps
+Cloud Engineer,CI/CD,13,50,0.26,Cloud/DevOps
+Cloud Engineer,Disaster Recovery,13,50,0.26,Cloud/DevOps
+Cloud Engineer,High Availability,13,50,0.26,Cloud/DevOps
+Cloud Engineer,BigQuery,12,50,0.24,Databases
+Cloud Engineer,GCP,12,50,0.24,Cloud/DevOps
+Cloud Engineer,Documentation,12,50,0.24,Soft Skills
+Cloud Engineer,Microservices,12,50,0.24,Frameworks
+Cloud Engineer,Presentation Skills,12,50,0.24,Soft Skills
+Data Engineer,Apache Spark,38,50,0.76,Frameworks
+Data Engineer,Python,37,50,0.74,Languages
+Data Engineer,SQL,37,50,0.74,Languages
+Data Engineer,Apache Kafka,26,50,0.52,Frameworks
+Data Engineer,Apache Airflow,25,50,0.5,Tools
+Data Engineer,PostgreSQL,25,50,0.5,Databases
+Data Engineer,Data Pipeline Architecture,25,50,0.5,Tools
+Data Engineer,BigQuery,13,50,0.26,Databases
+Data Engineer,Data Warehousing,13,50,0.26,Databases
+Data Engineer,ETL,13,50,0.26,Tools
+Data Engineer,Snowflake,13,50,0.26,Databases
+Data Engineer,AWS,13,50,0.26,Cloud/DevOps
+Data Engineer,Apache Hadoop,13,50,0.26,Tools
+Data Engineer,Data Modeling,13,50,0.26,Databases
+Data Engineer,Distributed Systems,13,50,0.26,Frameworks
+Data Engineer,Java,13,50,0.26,Languages
+Data Engineer,Scala,13,50,0.26,Languages
+Data Engineer,Data Quality,12,50,0.24,Tools
+Data Engineer,Docker,12,50,0.24,Cloud/DevOps
+Data Engineer,Git,12,50,0.24,Tools
+Data Engineer,dbt,12,50,0.24,Tools
+Data Engineer,CI/CD,12,50,0.24,Cloud/DevOps
+Data Engineer,Linux,12,50,0.24,Cloud/DevOps
+Data Engineer,MongoDB,12,50,0.24,Databases
+Data Engineer,Redis,12,50,0.24,Databases
+Data Scientist,Python,50,50,1.0,Languages
+Data Scientist,Pandas,38,50,0.76,Frameworks
+Data Scientist,SQL,38,50,0.76,Languages
+Data Scientist,Scikit-Learn,37,50,0.74,Frameworks
+Data Scientist,Data Visualization,25,50,0.5,Tools
+Data Scientist,NumPy,25,50,0.5,Frameworks
+Data Scientist,Statistical Analysis,25,50,0.5,Frameworks
+Data Scientist,A/B Testing,13,50,0.26,Frameworks
+Data Scientist,Communication,13,50,0.26,Soft Skills
+Data Scientist,Critical Thinking,13,50,0.26,Soft Skills
+Data Scientist,Tableau,13,50,0.26,Tools
+Data Scientist,BigQuery,13,50,0.26,Databases
+Data Scientist,Feature Engineering,13,50,0.26,Frameworks
+Data Scientist,Hypothesis Testing,13,50,0.26,Frameworks
+Data Scientist,Machine Learning,13,50,0.26,Frameworks
+Data Scientist,Power BI,13,50,0.26,Tools
+Data Scientist,Snowflake,13,50,0.26,Databases
+Data Scientist,Data Modeling,12,50,0.24,Databases
+Data Scientist,Git,12,50,0.24,Tools
+Data Scientist,Presentation Skills,12,50,0.24,Soft Skills
+Data Scientist,Time Series Analysis,12,50,0.24,Frameworks
+Data Scientist,Excel,12,50,0.24,Tools
+Data Scientist,Problem Solving,12,50,0.24,Soft Skills
+Data Scientist,Teamwork,12,50,0.24,Soft Skills
+DevOps Engineer,CI/CD,50,50,1.0,Cloud/DevOps
+DevOps Engineer,Docker,50,50,1.0,Cloud/DevOps
+DevOps Engineer,Kubernetes,50,50,1.0,Cloud/DevOps
+DevOps Engineer,Terraform,50,50,1.0,Cloud/DevOps
+DevOps Engineer,Linux,37,50,0.74,Cloud/DevOps
+DevOps Engineer,AWS,25,50,0.5,Cloud/DevOps
+DevOps Engineer,Bash,25,50,0.5,Languages
+DevOps Engineer,Python,25,50,0.5,Languages
+DevOps Engineer,Prometheus,25,50,0.5,Cloud/DevOps
+DevOps Engineer,GitHub,13,50,0.26,Tools
+DevOps Engineer,GitHub Actions,13,50,0.26,Cloud/DevOps
+DevOps Engineer,Jenkins,13,50,0.26,Cloud/DevOps
+DevOps Engineer,Ansible,13,50,0.26,Cloud/DevOps
+DevOps Engineer,Azure,13,50,0.26,Cloud/DevOps
+DevOps Engineer,Git,13,50,0.26,Tools
+DevOps Engineer,Grafana,13,50,0.26,Cloud/DevOps
+DevOps Engineer,Nginx,13,50,0.26,Cloud/DevOps
+DevOps Engineer,GCP,12,50,0.24,Cloud/DevOps
+DevOps Engineer,Helm,12,50,0.24,Cloud/DevOps
+Frontend Developer,CSS,50,50,1.0,Languages
+Frontend Developer,React,50,50,1.0,Frameworks
+Frontend Developer,HTML,38,50,0.76,Languages
+Frontend Developer,JavaScript,37,50,0.74,Languages
+Frontend Developer,TypeScript,26,50,0.52,Languages
+Frontend Developer,Git,25,50,0.5,Tools
+Frontend Developer,Next.js,25,50,0.5,Frameworks
+Frontend Developer,REST APIs,25,50,0.5,Frameworks
+Frontend Developer,Redux,25,50,0.5,Frameworks
+Frontend Developer,Tailwind CSS,25,50,0.5,Frameworks
+Frontend Developer,Jest,13,50,0.26,Tools
+Frontend Developer,Responsive Design,13,50,0.26,Languages
+Frontend Developer,Unit Testing,13,50,0.26,Tools
+Frontend Developer,User Experience Design,13,50,0.26,Tools
+Frontend Developer,Agile,13,50,0.26,Soft Skills
+Frontend Developer,Figma,13,50,0.26,Tools
+Frontend Developer,GraphQL,13,50,0.26,Frameworks
+Frontend Developer,Vite,13,50,0.26,Tools
+Frontend Developer,Vue.js,13,50,0.26,Frameworks
+Frontend Developer,WebSockets,13,50,0.26,Frameworks
+Frontend Developer,Webpack,13,50,0.26,Tools
+Frontend Developer,Bootstrap,12,50,0.24,Frameworks
+Frontend Developer,Communication,12,50,0.24,Soft Skills
+Frontend Developer,Postman,12,50,0.24,Tools
+Full Stack Developer,Docker,38,50,0.76,Cloud/DevOps
+Full Stack Developer,React,38,50,0.76,Frameworks
+Full Stack Developer,CSS,25,50,0.5,Languages
+Full Stack Developer,Git,25,50,0.5,Tools
+Full Stack Developer,TypeScript,25,50,0.5,Languages
+Full Stack Developer,PostgreSQL,25,50,0.5,Databases
+Full Stack Developer,Agile,13,50,0.26,Soft Skills
+Full Stack Developer,Express,13,50,0.26,Frameworks
+Full Stack Developer,HTML,13,50,0.26,Languages
+Full Stack Developer,JavaScript,13,50,0.26,Languages
+Full Stack Developer,MongoDB,13,50,0.26,Databases
+Full Stack Developer,Node.js,13,50,0.26,Frameworks
+Full Stack Developer,REST APIs,13,50,0.26,Frameworks
+Full Stack Developer,Teamwork,13,50,0.26,Soft Skills
+Full Stack Developer,AWS,13,50,0.26,Cloud/DevOps
+Full Stack Developer,CI/CD,13,50,0.26,Cloud/DevOps
+Full Stack Developer,Django,13,50,0.26,Frameworks
+Full Stack Developer,Python,13,50,0.26,Languages
+Full Stack Developer,Communication,12,50,0.24,Soft Skills
+Full Stack Developer,GraphQL,12,50,0.24,Frameworks
+Full Stack Developer,Next.js,12,50,0.24,Frameworks
+Full Stack Developer,Problem Solving,12,50,0.24,Soft Skills
+Full Stack Developer,Supabase,12,50,0.24,Databases
+Full Stack Developer,Tailwind CSS,12,50,0.24,Frameworks
+Full Stack Developer,Java,12,50,0.24,Languages
+Full Stack Developer,Kubernetes,12,50,0.24,Cloud/DevOps
+Full Stack Developer,MySQL,12,50,0.24,Databases
+Full Stack Developer,Spring Boot,12,50,0.24,Frameworks
+Full Stack Developer,Spring Framework,12,50,0.24,Frameworks
+Full Stack Developer,System Design,12,50,0.24,Frameworks
+Full Stack Developer,Unit Testing,12,50,0.24,Tools
+Machine Learning Engineer,Machine Learning,50,50,1.0,Frameworks
+Machine Learning Engineer,Python,50,50,1.0,Languages
+Machine Learning Engineer,Docker,38,50,0.76,Cloud/DevOps
+Machine Learning Engineer,PyTorch,38,50,0.76,Frameworks
+Machine Learning Engineer,Scikit-Learn,38,50,0.76,Frameworks
+Machine Learning Engineer,Git,26,50,0.52,Tools
+Machine Learning Engineer,AWS,25,50,0.5,Cloud/DevOps
+Machine Learning Engineer,Linux,25,50,0.5,Cloud/DevOps
+Machine Learning Engineer,MLOps,25,50,0.5,Cloud/DevOps
+Machine Learning Engineer,Pandas,25,50,0.5,Frameworks
+Machine Learning Engineer,TensorFlow,25,50,0.5,Frameworks
+Machine Learning Engineer,SQL,25,50,0.5,Languages
+Machine Learning Engineer,Algorithms,13,50,0.26,Languages
+Machine Learning Engineer,Computer Vision,13,50,0.26,Frameworks
+Machine Learning Engineer,Data Structures,13,50,0.26,Languages
+Machine Learning Engineer,Feature Engineering,13,50,0.26,Frameworks
+Machine Learning Engineer,Model Evaluation,13,50,0.26,Frameworks
+Machine Learning Engineer,Natural Language Processing,13,50,0.26,Frameworks
+Machine Learning Engineer,CI/CD,13,50,0.26,Cloud/DevOps
+Machine Learning Engineer,Hugging Face,13,50,0.26,Frameworks
+Machine Learning Engineer,LLM Integration,13,50,0.26,Frameworks
+Machine Learning Engineer,Neural Networks,13,50,0.26,Frameworks
+Machine Learning Engineer,NumPy,13,50,0.26,Frameworks
+Machine Learning Engineer,Prompt Engineering,13,50,0.26,Frameworks
+Machine Learning Engineer,Communication,12,50,0.24,Soft Skills
+Machine Learning Engineer,Deep Learning,12,50,0.24,Frameworks
+Machine Learning Engineer,Kubernetes,12,50,0.24,Cloud/DevOps
+Machine Learning Engineer,Problem Solving,12,50,0.24,Soft Skills
+Machine Learning Engineer,REST APIs,12,50,0.24,Frameworks
+Machine Learning Engineer,MLflow,12,50,0.24,Tools
+Machine Learning Engineer,Unit Testing,12,50,0.24,Tools
+Machine Learning Engineer,Weights & Biases,12,50,0.24,Tools
