@@ -171,12 +171,5 @@ Generates standalone print-ready HTML documents and raw Markdown career audits.
 
 ---
 
-## 📚 Academic Documentation & Reports
-- **Complete Master Study Guide**: [MASTER_PROJECT_DOCUMENTATION.md](MASTER_PROJECT_DOCUMENTATION.md) (711 lines of in-depth algorithms, complexity tables, system calls, and 50 viva Q&As).
-- **Academic Mini Project Report**: [PROJECT_REPORT.pdf](PROJECT_REPORT.pdf) (12-page publication-grade report with embedded figures and KaTeX math).
-- **Report Source (HTML)**: [PROJECT_REPORT.html](PROJECT_REPORT.html).
-
----
-
 ## 🛡️ License
 Distributed under the MIT License. See `LICENSE` for more information.
