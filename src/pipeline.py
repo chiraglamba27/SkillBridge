@@ -51,7 +51,23 @@ class SkillBridgePipeline:
     def _load_or_build_job_skills(self) -> pd.DataFrame:
         """Loads processed job skills or runs initial ingestion."""
         if JOB_SKILLS_PARQUET.exists():
-            return pd.read_parquet(JOB_SKILLS_PARQUET)
+            try:
+                return pd.read_parquet(JOB_SKILLS_PARQUET)
+            except Exception:
+                pass
+        if JOB_SKILLS_CSV.exists():
+            df = pd.read_csv(JOB_SKILLS_CSV)
+            if "skills" in df.columns and len(df) > 0 and isinstance(df["skills"].iloc[0], str):
+                import json
+                def safe_parse_skills(x):
+                    if isinstance(x, list):
+                        return x
+                    try:
+                        return json.loads(x)
+                    except Exception:
+                        return []
+                df["skills"] = df["skills"].apply(safe_parse_skills)
+            return df
         from src.ingest import run_phase1_ingestion
         df, _ = run_phase1_ingestion()
         return df

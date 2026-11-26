@@ -127,9 +127,18 @@ def get_top_neighbors(G: nx.Graph, skill: str, top_n: int = 10) -> List[Tuple[st
 def build_and_save_all_graphs(job_skills_df: Optional[pd.DataFrame] = None) -> Dict[str, nx.Graph]:
     """Builds and serializes co-occurrence graphs for all target roles."""
     if job_skills_df is None:
-        if not JOB_SKILLS_PARQUET.exists():
-            raise FileNotFoundError(f"Missing {JOB_SKILLS_PARQUET}. Run ingest.py first.")
-        job_skills_df = pd.read_parquet(JOB_SKILLS_PARQUET)
+        if JOB_SKILLS_PARQUET.exists():
+            try:
+                job_skills_df = pd.read_parquet(JOB_SKILLS_PARQUET)
+            except Exception:
+                job_skills_df = None
+        if job_skills_df is None and JOB_SKILLS_CSV.exists():
+            job_skills_df = pd.read_csv(JOB_SKILLS_CSV)
+            if "skills" in job_skills_df.columns and len(job_skills_df) > 0 and isinstance(job_skills_df["skills"].iloc[0], str):
+                import json
+                job_skills_df["skills"] = job_skills_df["skills"].apply(lambda x: json.loads(x) if isinstance(x, str) else x)
+        if job_skills_df is None:
+            raise FileNotFoundError(f"Missing {JOB_SKILLS_CSV}. Run ingest.py first.")
 
     extractor = SkillExtractor()
     demand_df = compute_role_demand(job_skills_df)
